@@ -1,0 +1,3062 @@
+{
+  "1326cec8-710b-4493-b704-f55158f5f3f1": {
+    "id": "1326cec8-710b-4493-b704-f55158f5f3f1",
+    "text": "awef",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "9042ca6b-6244-4c6e-9d8d-80e6659e9a86": {
+    "id": "9042ca6b-6244-4c6e-9d8d-80e6659e9a86",
+    "text": "awefawee",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "f99191fd-ea4b-4b58-821b-5051edb89270": {
+    "id": "f99191fd-ea4b-4b58-821b-5051edb89270",
+    "text": "awe",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "5724dc0f-1df5-4aeb-b163-ce168de93c0a": {
+    "id": "5724dc0f-1df5-4aeb-b163-ce168de93c0a",
+    "text": "I think this is good enough for now. I can get into fancier things later",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "7eda3bce-ce33-4ef9-9a1e-f86ed6e5af86": {
+    "id": "7eda3bce-ce33-4ef9-9a1e-f86ed6e5af86",
+    "text": "I like being able to open up the db.json and just edit it directly",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "157c7687-9675-4b82-8402-935db285752f": {
+    "id": "157c7687-9675-4b82-8402-935db285752f",
+    "text": "Adding a thing on mobile",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "fd3aafbd-8870-43de-833f-776315258df8": {
+    "id": "fd3aafbd-8870-43de-833f-776315258df8",
+    "text": "And adding another",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "6de59069-da79-45f2-a53f-28956b0b6f20": {
+    "id": "6de59069-da79-45f2-a53f-28956b0b6f20",
+    "text": "Here's a note. Does it save though?!",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "4dd4ca02-6b4f-4028-a0fd-49f4fb46cc84": {
+    "id": "4dd4ca02-6b4f-4028-a0fd-49f4fb46cc84",
+    "text": "how about this one?",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "96f2f2e3-62a9-4635-bd9e-cb0be8f97e76": {
+    "id": "96f2f2e3-62a9-4635-bd9e-cb0be8f97e76",
+    "text": "This one is on mobile. Does it save?!",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "4f650c01-291e-4649-83ea-87c01b832671": {
+    "id": "4f650c01-291e-4649-83ea-87c01b832671",
+    "text": "siiiick",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "1b7d7fb9-e2d3-4a3f-aeae-6bd2cf3e6895": {
+    "id": "1b7d7fb9-e2d3-4a3f-aeae-6bd2cf3e6895",
+    "text": "Dumping to a single file is the vibe I want. Should feel like I’m just reading and writing to a single json file. ",
+    "interval": 148.20050921679953,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1656505517285,
+    "dueDate": 1662121589189,
+    "state": "Active"
+  },
+  "8edeb779-36d6-4b97-a5e6-d1a3567d01b8": {
+    "id": "8edeb779-36d6-4b97-a5e6-d1a3567d01b8",
+    "text": "The only reason I’m *not* just writing to a text file is cause I wanna save things like timestamps etc. automatate some of the data consistency work",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "3f7307c3-019a-4bb3-8910-598cb82a8489": {
+    "id": "3f7307c3-019a-4bb3-8910-598cb82a8489",
+    "text": "Text area should be bigger. Shouldn’t zoom on select",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "86bd25fe-74d8-4679-9577-0ad894001fca": {
+    "id": "86bd25fe-74d8-4679-9577-0ad894001fca",
+    "text": "Want to edit notes. ",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Archive"
+  },
+  "1f906889-27e8-4041-9202-e65dd18444b2": {
+    "id": "1f906889-27e8-4041-9202-e65dd18444b2",
+    "text": "The main work should live in one place eg mainly in the database, mainly in the backend api, mainly in the front end",
+    "interval": 124.90709315415938,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1656420689311,
+    "dueDate": 1661775868815,
+    "state": "Active"
+  },
+  "b8d6adc7-3dd9-4236-834b-7125310504b9": {
+    "id": "b8d6adc7-3dd9-4236-834b-7125310504b9",
+    "text": "Feeling way better right now than I did yesterday morning. Building stuff is fun! Not-over-scheduled is gun!",
+    "interval": 148.42163328051913,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1656684523021,
+    "dueDate": 1662085537883,
+    "state": "Active"
+  },
+  "395f3ad3-77f6-41a5-95a1-444d19b9d225": {
+    "id": "395f3ad3-77f6-41a5-95a1-444d19b9d225",
+    "text": "Pressing later doesn’t actually schedule things for tomorrow. Gotta fix that",
+    "interval": 4.76400231784039,
+    "createdDate": 1652553044893,
+    "lastModifiedDate": 1652588714581,
+    "dueDate": 1652772146080,
+    "state": "Archive"
+  },
+  "11a16043-6a91-4b95-b36b-1c52d87f5435": {
+    "id": "11a16043-6a91-4b95-b36b-1c52d87f5435",
+    "text": "Should I make it a routine to fuck off on my routines lol? Or like, make it ok to do so. Cause I think now that I’m feeling more up, I’d be on board with doing my morning routine stuff. Kind of like a vacation from my overly scheduled self?",
+    "interval": 2.408124120961225,
+    "createdDate": 1652305191560,
+    "lastModifiedDate": 1652373132763,
+    "dueDate": 1652459532763,
+    "state": "Archive"
+  },
+  "519985e7-6d48-4449-840e-1c2c0d4fc46b": {
+    "id": "519985e7-6d48-4449-840e-1c2c0d4fc46b",
+    "text": "It’s kind of interesting how much resistance there is to using an app if it’s a little janky. Like I wouldn’t think I’d care much if it was just a thing for me. But I do! A little bit of Jane in my quick capture tool makes me more likely to resort to some other like keep",
+    "interval": 2.087478246836092,
+    "createdDate": 1652306527333,
+    "lastModifiedDate": 1652373129179,
+    "dueDate": 1652459529179,
+    "state": "Archive"
+  },
+  "bea78e93-7139-4106-84c2-3076e37b3df4": {
+    "id": "bea78e93-7139-4106-84c2-3076e37b3df4",
+    "text": "The text area should definitely be at the bottom. Text should be bigger. Zooming in and out of the area is annoying",
+    "interval": 2.401869746405114,
+    "createdDate": 1652306569708,
+    "lastModifiedDate": 1652373121294,
+    "dueDate": 1652459521294,
+    "state": "Archive"
+  },
+  "5df2621f-b2f9-4b48-91c3-15c2e58e3b98": {
+    "id": "5df2621f-b2f9-4b48-91c3-15c2e58e3b98",
+    "text": "Focus on text area on page load. Why did this get over written? Shouldn’t in memory notes get precedence?",
+    "interval": 1,
+    "createdDate": 1652306751496,
+    "lastModifiedDate": 1652306751496,
+    "dueDate": 1652306751496,
+    "state": "Archive"
+  },
+  "3904b419-b96d-412c-b6d7-2e9ee1f62ce3": {
+    "id": "3904b419-b96d-412c-b6d7-2e9ee1f62ce3",
+    "text": "Looks like edits aren’t being saved. Need to look into that",
+    "interval": 1,
+    "createdDate": 1652306875009,
+    "lastModifiedDate": 1652306875009,
+    "dueDate": 1652306875009,
+    "state": "Archive"
+  },
+  "9d974a63-a3da-4c42-8d2e-bed24e2c8583": {
+    "id": "9d974a63-a3da-4c42-8d2e-bed24e2c8583",
+    "text": "Oh lol or they are? But they’re delayed? Some funky state management stuff going on",
+    "interval": 1,
+    "createdDate": 1652306913055,
+    "lastModifiedDate": 1652306913055,
+    "dueDate": 1652306913055,
+    "state": "Archive"
+  },
+  "510881b9-d092-45ee-8a6d-e25dab16fc50": {
+    "id": "510881b9-d092-45ee-8a6d-e25dab16fc50",
+    "text": "herp derp are these edits working? How about now? awefawe af why isn't clicking working? I think\n\nwhy is the cursor disappearing?\n\nI think I'd prefer <enter> to submit and use shift-enter to enter a newline\n",
+    "interval": 1,
+    "createdDate": 1652358854806,
+    "lastModifiedDate": 1652358854806,
+    "dueDate": 1652358854806,
+    "state": "Archive"
+  },
+  "edd05762-9263-4316-bff0-59932bdf5a79": {
+    "id": "edd05762-9263-4316-bff0-59932bdf5a79",
+    "text": "Some funny looking stuff on safari but whatever. Overall, this is feeling really good!",
+    "interval": 1,
+    "createdDate": 1652372952276,
+    "lastModifiedDate": 1652372952276,
+    "dueDate": 1652459352276,
+    "state": "Archive"
+  },
+  "2a4ab1b3-f3ef-4845-b97c-8ba629f8b494": {
+    "id": "2a4ab1b3-f3ef-4845-b97c-8ba629f8b494",
+    "text": "Seems like it to me",
+    "interval": 1,
+    "createdDate": 1652571930713,
+    "lastModifiedDate": 1652571930713,
+    "dueDate": 1652571930713,
+    "state": "Archive"
+  },
+  "601811be-3bdb-482f-a54b-4f320a3f48a2": {
+    "id": "601811be-3bdb-482f-a54b-4f320a3f48a2",
+    "text": "when I enter a note on mobile, the stream of notes doesn’t scroll down. It’s unintuitive and I don’t like it",
+    "interval": 1,
+    "createdDate": 1652373058189,
+    "lastModifiedDate": 1652373058189,
+    "dueDate": 1652459458189,
+    "state": "Archive"
+  },
+  "67e1d2e8-97f2-41d2-8580-33ac3ff9650a": {
+    "id": "67e1d2e8-97f2-41d2-8580-33ac3ff9650a",
+    "text": "the text is too small too. Somehow typing feels harder, as if the keys had also gotten smaller",
+    "interval": 1,
+    "createdDate": 1652373096860,
+    "lastModifiedDate": 1652373096860,
+    "dueDate": 1652459496860,
+    "state": "Archive"
+  },
+  "e476ba46-91cb-41ba-ae80-3542dd9effed": {
+    "id": "e476ba46-91cb-41ba-ae80-3542dd9effed",
+    "text": "Maybe have option: process everything since last time I processed up until right now. That’s how I could eg go through all the notes I took during lunch. \n\nI guess if the default due date was Date.now() then that’d be the default case. Hmm…",
+    "interval": 1,
+    "createdDate": 1652373645905,
+    "lastModifiedDate": 1652373645905,
+    "dueDate": 1652460045905,
+    "state": "Archive"
+  },
+  "dccda2c0-0d5f-48a8-af71-3fa9b5eb9609": {
+    "id": "dccda2c0-0d5f-48a8-af71-3fa9b5eb9609",
+    "text": "I don’t think I actually want the number on the process tab. When I’m doing input, I don’t want my mind jumping to that number and thinking “oh no gotta go process stuff!”",
+    "interval": 1,
+    "createdDate": 1652373756661,
+    "lastModifiedDate": 1652373756661,
+    "dueDate": 1652460156661,
+    "state": "Archive"
+  },
+  "03e7477e-2151-40c9-9ec7-1d5d3cccd0e6": {
+    "id": "03e7477e-2151-40c9-9ec7-1d5d3cccd0e6",
+    "text": "TODO pick up coke for emily",
+    "interval": 1,
+    "createdDate": 1652394527718,
+    "lastModifiedDate": 1652394527718,
+    "dueDate": 1652480927718,
+    "state": "Archive"
+  },
+  "009afcba-8d4d-48bf-9e34-006b353fd5e3": {
+    "id": "009afcba-8d4d-48bf-9e34-006b353fd5e3",
+    "text": "Bigger font size yyyyaaaayy!!",
+    "interval": 2.3637814449326964,
+    "createdDate": 1652396586109,
+    "lastModifiedDate": 1652397407905,
+    "dueDate": 1652483807905,
+    "state": "Archive"
+  },
+  "f35799b9-9791-416f-af44-74b7a5ba02dc": {
+    "id": "f35799b9-9791-416f-af44-74b7a5ba02dc",
+    "text": "don’t forget to pick up coke",
+    "interval": 2.2669827444931014,
+    "createdDate": 1652396594878,
+    "lastModifiedDate": 1652397403121,
+    "dueDate": 1652483803121,
+    "state": "Archive"
+  },
+  "ebeced80-97e3-49c3-8535-b10b38a4a986": {
+    "id": "ebeced80-97e3-49c3-8535-b10b38a4a986",
+    "text": "Add something",
+    "interval": 1,
+    "createdDate": 1652397413008,
+    "lastModifiedDate": 1652397413008,
+    "dueDate": 1652397413008,
+    "state": "Archive"
+  },
+  "7e06dc8a-ee44-49d0-8d15-414ea033c163": {
+    "id": "7e06dc8a-ee44-49d0-8d15-414ea033c163",
+    "text": "CRDT library looks pretty easy. Plus I think there’s a better way to manage and decide on push/pull updates (eg record whether last react update was from a pull or not, and only push of the last one was y a pull)",
+    "interval": 2.304597332846958,
+    "createdDate": 1652400272824,
+    "lastModifiedDate": 1652400528888,
+    "dueDate": 1652486928888,
+    "state": "Archive"
+  },
+  "3be6727d-48e8-4f46-bfee-dcc607b685eb": {
+    "id": "3be6727d-48e8-4f46-bfee-dcc607b685eb",
+    "text": "Take whatever note blah",
+    "interval": 1,
+    "createdDate": 1652400439083,
+    "lastModifiedDate": 1652400439083,
+    "dueDate": 1652400439083,
+    "state": "Archive"
+  },
+  "13b78806-4651-470f-9d93-1170fee366cc": {
+    "id": "13b78806-4651-470f-9d93-1170fee366cc",
+    "text": "Hdhdbrv",
+    "interval": 2.370090520028894,
+    "createdDate": 1652400450090,
+    "lastModifiedDate": 1652400515887,
+    "dueDate": 1652486915889,
+    "state": "Archive"
+  },
+  "e6b6e5bb-2848-4223-902b-8973afe44830": {
+    "id": "e6b6e5bb-2848-4223-902b-8973afe44830",
+    "text": "Go through the CRDT tutorial",
+    "interval": 1,
+    "createdDate": 1652413974548,
+    "lastModifiedDate": 1652413974548,
+    "dueDate": 1652413974548,
+    "state": "Archive"
+  },
+  "b2dbe5ad-b65b-4cbb-8786-fa73e999592a": {
+    "id": "b2dbe5ad-b65b-4cbb-8786-fa73e999592a",
+    "text": "Go through the CRDT tutorial",
+    "interval": 1,
+    "createdDate": 1652413586048,
+    "lastModifiedDate": 1652413586048,
+    "dueDate": 1652413586048,
+    "state": "Archive"
+  },
+  "a6adef0c-823f-4c55-9cb8-ece38146594d": {
+    "id": "a6adef0c-823f-4c55-9cb8-ece38146594d",
+    "text": "Text Meredith and emily",
+    "interval": 1,
+    "createdDate": 1652466465501,
+    "lastModifiedDate": 1652466465501,
+    "dueDate": 1652466465501,
+    "state": "Archive"
+  },
+  "066a579b-8a1a-45f9-9f83-fc1a5278a72d": {
+    "id": "066a579b-8a1a-45f9-9f83-fc1a5278a72d",
+    "text": "Only push changes if the changes DIDNT come from a pull",
+    "interval": 1,
+    "createdDate": 1652468621770,
+    "lastModifiedDate": 1652468621770,
+    "dueDate": 1652468621770,
+    "state": "Archive"
+  },
+  "bb6f66fd-1015-445d-bad2-1db66e300e45": {
+    "id": "bb6f66fd-1015-445d-bad2-1db66e300e45",
+    "text": "I should just make it *not* work offline. Figuring out all those edge cases just isn’t worth it for me. Maaaaybe have an offline mode but it doesn’t try to sync, it just saves to internal storage while offline and then when back online, it doesn’t try to merge, it just switched back. The local storage is a snapshot that I can manually grab if I want to. But again… this seems like more work than I want to deal with atm. Makes automerge sound appealing again",
+    "interval": 111.63586877612963,
+    "createdDate": 1652478501420,
+    "lastModifiedDate": 1656333962199,
+    "dueDate": 1660996772238,
+    "state": "Active"
+  },
+  "488a1478-0478-4902-913c-690e0cc2a514": {
+    "id": "488a1478-0478-4902-913c-690e0cc2a514",
+    "text": "Let’s say I go with automerge and using the hacking actorId set up. Does each state needs its own unique actorID. Test that out plz",
+    "interval": 4.155729458061596,
+    "createdDate": 1652480475745,
+    "lastModifiedDate": 1652553015005,
+    "dueDate": 1652726728417,
+    "state": "Archive"
+  },
+  "1f98bb19-00af-42e2-8f68-bbaa1ac13772": {
+    "id": "1f98bb19-00af-42e2-8f68-bbaa1ac13772",
+    "text": "Feeling good! I should go on walks more often!",
+    "interval": 114.87503506953219,
+    "createdDate": 1652480614243,
+    "lastModifiedDate": 1655901635135,
+    "dueDate": 1660290759652,
+    "state": "Active"
+  },
+  "abb08c8e-a873-45ac-bc47-cfee9369c126": {
+    "id": "abb08c8e-a873-45ac-bc47-cfee9369c126",
+    "text": "https://m.youtube.com/watch?v=6Icb4hu0_OE\nair filters?",
+    "interval": 140.05360530061742,
+    "createdDate": 1652482872613,
+    "lastModifiedDate": 1656333003169,
+    "dueDate": 1661419825956,
+    "state": "Active"
+  },
+  "7c1dd2c7-277a-4e72-9cc2-775cf55dc345": {
+    "id": "7c1dd2c7-277a-4e72-9cc2-775cf55dc345",
+    "text": "Make endpoint and shortcut to support sharing from mobile",
+    "interval": 10.875164476145487,
+    "createdDate": 1652482959580,
+    "lastModifiedDate": 1652708325714,
+    "dueDate": 1653125419725,
+    "state": "Archive"
+  },
+  "20977f6d-8402-483a-adf8-d63b2b7603e8": {
+    "id": "20977f6d-8402-483a-adf8-d63b2b7603e8",
+    "text": "Inbox should be a list, not a single card",
+    "interval": 2.4332254858639026,
+    "createdDate": 1652483031435,
+    "lastModifiedDate": 1652483173011,
+    "dueDate": 1652569573011,
+    "state": "Archive"
+  },
+  "1dd69496-0ced-48f2-9ff7-80ef15266af2": {
+    "id": "1dd69496-0ced-48f2-9ff7-80ef15266af2",
+    "text": "Every now and then a HEAD request fails. That's ok by me though. I doubt it'll be an issue for me",
+    "interval": 9.688119413729337,
+    "createdDate": 1652571972550,
+    "lastModifiedDate": 1652908981247,
+    "dueDate": 1653317075435,
+    "state": "Archive"
+  },
+  "035b1f52-4e9f-4c98-860a-845d909e99b8": {
+    "id": "035b1f52-4e9f-4c98-860a-845d909e99b8",
+    "text": "What if I didn't even pull? Like, every time I load the app, I pull, put I don't periodically do it, I just periodically push. But I will have tabs standing open right? If I don't refresh those, then I'll end up overwriting the data store with old data",
+    "interval": 48.34647717821528,
+    "createdDate": 1652572075116,
+    "lastModifiedDate": 1654184332679,
+    "dueDate": 1656190905319,
+    "state": "Archive"
+  },
+  "b9c7b3ab-b55d-417d-b784-a5fdc5bba71b": {
+    "id": "b9c7b3ab-b55d-417d-b784-a5fdc5bba71b",
+    "text": "Ok... stop touching the sync layer! LOL. The whole reason for it was so that I didn't have to think about it. Doesn't feel like that's how it's worked out.",
+    "interval": 48.36660622819011,
+    "createdDate": 1652572165079,
+    "lastModifiedDate": 1654269806390,
+    "dueDate": 1656187068104,
+    "state": "Archive"
+  },
+  "3ede625a-36b0-41d0-be75-5e5d54f037ab": {
+    "id": "3ede625a-36b0-41d0-be75-5e5d54f037ab",
+    "text": "I prefer having the entry within view of some list. So I can click the floating “+” from the list or inbox view, and it’ll open up a little form at the bottom to start entering",
+    "interval": 2.3187080353011034,
+    "createdDate": 1652582898996,
+    "lastModifiedDate": 1652588250396,
+    "dueDate": 1652674650396,
+    "state": "Archive"
+  },
+  "70c1c022-666b-40b9-b8e6-e2d7e988ddb5": {
+    "id": "70c1c022-666b-40b9-b8e6-e2d7e988ddb5",
+    "text": "Sndn",
+    "interval": 2.4135689374569225,
+    "createdDate": 1652582906259,
+    "lastModifiedDate": 1652588249031,
+    "dueDate": 1652674649031,
+    "state": "Archive"
+  },
+  "3c2bdd4f-c6b7-4616-9867-bc61a90e14fa": {
+    "id": "3c2bdd4f-c6b7-4616-9867-bc61a90e14fa",
+    "text": "If you don’t explicitly set the height, it’ll fit to the content",
+    "interval": 106.60866955470514,
+    "createdDate": 1652587531024,
+    "lastModifiedDate": 1655992160016,
+    "dueDate": 1659886376072,
+    "state": "Active"
+  },
+  "aac5e798-0aa3-4769-a8d4-8223ac4f24f1": {
+    "id": "aac5e798-0aa3-4769-a8d4-8223ac4f24f1",
+    "text": "Happened again just now",
+    "interval": 1,
+    "createdDate": 1652589088471,
+    "lastModifiedDate": 1652589088471,
+    "dueDate": 1652589088471,
+    "state": "Archive"
+  },
+  "4c36827c-7b13-4896-91d4-ab19c9b20312": {
+    "id": "4c36827c-7b13-4896-91d4-ab19c9b20312",
+    "text": "Why do I have a bajillion “seems like it to me”cards?  They have the same id too",
+    "interval": 2.224026689974118,
+    "createdDate": 1652588952600,
+    "lastModifiedDate": 1652588961564,
+    "dueDate": 1652675361564,
+    "state": "Archive"
+  },
+  "d428bb1a-5296-4a94-8937-256b2ddc570f": {
+    "id": "d428bb1a-5296-4a94-8937-256b2ddc570f",
+    "text": "I think it has something to do with doing actions in the inbox? That makes sense I guess since I was mess with that ",
+    "interval": 2.0476304377622285,
+    "createdDate": 1652589155744,
+    "lastModifiedDate": 1652590996435,
+    "dueDate": 1652677396435,
+    "state": "Archive"
+  },
+  "c190e772-f71a-4af1-ac57-6ecc9f55a48e": {
+    "id": "c190e772-f71a-4af1-ac57-6ecc9f55a48e",
+    "text": "Did i fix it?!",
+    "interval": 1,
+    "createdDate": 1652590985317,
+    "lastModifiedDate": 1652590985317,
+    "dueDate": 1652590985317,
+    "state": "Archive"
+  },
+  "153c658c-e0e0-44aa-9da7-c2084031dc1a": {
+    "id": "153c658c-e0e0-44aa-9da7-c2084031dc1a",
+    "text": "Look like it :D!!",
+    "interval": 1,
+    "createdDate": 1652591012905,
+    "lastModifiedDate": 1652591012905,
+    "dueDate": 1652591012905,
+    "state": "Archive"
+  },
+  "f46232b2-5456-42ec-9303-8247c530f4fd": {
+    "id": "f46232b2-5456-42ec-9303-8247c530f4fd",
+    "text": "Removing focus from the entry text box while it’s empty should close the entry form. When I finish with a note, I’m having it default to refocusing on the text area so I can write another. I’ll often want to *not* do that though. And intuitive way to get out of that is to press “done” on the keyboard. That removes focus, but right now, it doesn’t close the text box. That ooooor don’t auto focus after entering a note",
+    "interval": 1,
+    "createdDate": 1652591178093,
+    "lastModifiedDate": 1652591178093,
+    "dueDate": 1652591178093,
+    "state": "Archive"
+  },
+  "6bddc0be-3e67-40c1-8d79-5bd6e5ff5fa4": {
+    "id": "6bddc0be-3e67-40c1-8d79-5bd6e5ff5fa4",
+    "text": "Could I use a web socket to talk to the backend? That way I wouldn’t need to ping the backend, it could let me know when there’s been a change ",
+    "interval": 103.28444336931649,
+    "createdDate": 1652594218472,
+    "lastModifiedDate": 1655816342701,
+    "dueDate": 1660050604316,
+    "state": "Active"
+  },
+  "85a31890-70b1-4a9a-a322-f4e3def05bb8": {
+    "id": "85a31890-70b1-4a9a-a322-f4e3def05bb8",
+    "text": "https://litestream.io/alternatives/cron/\n\nUsing crown to back up SQLite. May be relevant to my json backups too",
+    "interval": 134.8931312077774,
+    "createdDate": 1652622185331,
+    "lastModifiedDate": 1657281415497,
+    "dueDate": 1662420866412,
+    "state": "Active"
+  },
+  "27907001-7bab-45ba-8f12-0765a3962e13": {
+    "id": "27907001-7bab-45ba-8f12-0765a3962e13",
+    "text": "If I have end points to put and get images, can I think just link to those images on cards to display them?",
+    "interval": 2.452686278928199,
+    "createdDate": 1652623172215,
+    "lastModifiedDate": 1652650718460,
+    "dueDate": 1652737118460,
+    "state": "Archive"
+  },
+  "f5e5173d-ca22-4303-bf88-0cc2042a08ba": {
+    "id": "f5e5173d-ca22-4303-bf88-0cc2042a08ba",
+    "text": "Can’t scroll to the very top of the screen right now. Maybe add some white space to fix it ",
+    "interval": 60.427830978844995,
+    "createdDate": 1652624659188,
+    "lastModifiedDate": 1654269771809,
+    "dueDate": 1656641852155,
+    "state": "Archive"
+  },
+  "e1e96d09-58c9-4475-aed3-5e3a1c0e1581": {
+    "id": "e1e96d09-58c9-4475-aed3-5e3a1c0e1581",
+    "text": "I don’t like how similar the + button and the send button are. It confused my mind",
+    "interval": 75.02948506313888,
+    "createdDate": 1652624691214,
+    "lastModifiedDate": 1654796771808,
+    "dueDate": 1657519129321,
+    "state": "Archive"
+  },
+  "c42d683e-a910-4ba4-b410-5c39042dc0af": {
+    "id": "c42d683e-a910-4ba4-b410-5c39042dc0af",
+    "text": "The most recent items should be at the bottom of my inbox. Last in first out",
+    "interval": 1,
+    "createdDate": 1652624759624,
+    "lastModifiedDate": 1652624759624,
+    "dueDate": 1652624759624,
+    "state": "Archive"
+  },
+  "b5b51296-bf10-4c60-b898-0b7aeefc1f3a": {
+    "id": "b5b51296-bf10-4c60-b898-0b7aeefc1f3a",
+    "text": "Have a “hide” button. When you click hide, the item is hidden from the inbox for 5min. Implementation: you have a list of hidden item ids and when an item is hidden, you add it’s id to the list and start an interval to remove it. There’s also a “unhide” all button in the inbox to bring them all back. Number of hidden items is shown along with remaining count ",
+    "interval": 130.7032914392326,
+    "createdDate": 1652624909091,
+    "lastModifiedDate": 1657200430533,
+    "dueDate": 1662125018163,
+    "state": "Active"
+  },
+  "712ae4ea-8d10-4456-8566-80b14b61fa5e": {
+    "id": "712ae4ea-8d10-4456-8566-80b14b61fa5e",
+    "text": "- Hide Feature\n- * show new lines on cards\n- * Detailed entry view. Also used for editing. \n- API which I can share eg urls to. And photos?! Also can I just have static serving of a folder of photos? So I just need to dump them in and then link to them?\n- Want just now to search for active cards only\n- Want to delete garbage card\n- Want to “like” an item\n- When I leave focus on the text entry, the text area should collapse down to min size with scrolling ",
+    "interval": 2.0733186161256327,
+    "createdDate": 1652625408445,
+    "lastModifiedDate": 1652650742113,
+    "dueDate": 1652737142113,
+    "state": "Archive"
+  },
+  "ffc239b6-d809-45ae-8e5a-716ad22a62c0": {
+    "id": "ffc239b6-d809-45ae-8e5a-716ad22a62c0",
+    "text": "Study for an hour. Do misc todos for an hour. Then you have lots of time to play!",
+    "interval": 1,
+    "createdDate": 1652625483462,
+    "lastModifiedDate": 1652625483462,
+    "dueDate": 1652625483462,
+    "state": "Archive"
+  },
+  "f9c6b5b1-0bc4-4655-a6a3-ca44cac97d92": {
+    "id": "f9c6b5b1-0bc4-4655-a6a3-ca44cac97d92",
+    "text": "Felt anxious while grocery shopping ",
+    "interval": 1,
+    "createdDate": 1652637800737,
+    "lastModifiedDate": 1652637800737,
+    "dueDate": 1652637800737,
+    "state": "Archive"
+  },
+  "e42d034e-0664-4626-b229-2b99a8d1d0f6": {
+    "id": "e42d034e-0664-4626-b229-2b99a8d1d0f6",
+    "text": "Study Anki on the way to the gym",
+    "interval": 1,
+    "createdDate": 1652638156732,
+    "lastModifiedDate": 1652638156732,
+    "dueDate": 1652638156732,
+    "state": "Archive"
+  },
+  "178f2865-dca8-4aa0-a29b-433ddc7f32b3": {
+    "id": "178f2865-dca8-4aa0-a29b-433ddc7f32b3",
+    "text": "Shift-enter or cmd-enter should submit the form",
+    "interval": 47.30311420572269,
+    "createdDate": 1652640937604,
+    "lastModifiedDate": 1654091467894,
+    "dueDate": 1655955907205,
+    "state": "Archive"
+  },
+  "e0c4d0a3-e0c8-41ba-a1a4-1c761a270d0c": {
+    "id": "e0c4d0a3-e0c8-41ba-a1a4-1c761a270d0c",
+    "text": "is this working?!",
+    "interval": 1,
+    "createdDate": 1652643553941,
+    "lastModifiedDate": 1652643553941,
+    "dueDate": 1652643553941,
+    "state": "Archive"
+  },
+  "3f88cd1b-0159-447e-822b-1bc2e1870f0b": {
+    "id": "3f88cd1b-0159-447e-822b-1bc2e1870f0b",
+    "text": "https://youtu.be/6Icb4hu0_OE",
+    "interval": 1,
+    "createdDate": 1652643633503,
+    "lastModifiedDate": 1652643633503,
+    "dueDate": 1652643633503,
+    "state": "Archive"
+  },
+  "d277bce9-5267-4a9c-a605-9691a4d14178": {
+    "id": "d277bce9-5267-4a9c-a605-9691a4d14178",
+    "text": "That last note came from an IOS shortcut!! It worked!!",
+    "interval": 1,
+    "createdDate": 1652643685251,
+    "lastModifiedDate": 1652643685251,
+    "dueDate": 1652643685251,
+    "state": "Archive"
+  },
+  "904f86be-8e67-4349-aff1-23506a6f2621": {
+    "id": "904f86be-8e67-4349-aff1-23506a6f2621",
+    "text": "https://youtu.be/6Icb4hu0_OE check out this cool video later duuuude",
+    "interval": 1,
+    "createdDate": 1652643987006,
+    "lastModifiedDate": 1652643987006,
+    "dueDate": 1652643987006,
+    "state": "Archive"
+  },
+  "367df924-d638-44f6-8dbf-1f63357bd031": {
+    "id": "367df924-d638-44f6-8dbf-1f63357bd031",
+    "text": "usePersistedState",
+    "interval": 1,
+    "createdDate": 1652647867660,
+    "lastModifiedDate": 1652647867660,
+    "dueDate": 1652647867660,
+    "state": "Archive"
+  },
+  "b16f0f38-66e1-4fc5-9452-ef2e2c387add": {
+    "id": "b16f0f38-66e1-4fc5-9452-ef2e2c387add",
+    "text": "Need to fix this login situation ",
+    "interval": 123.43474422812507,
+    "createdDate": 1652650681539,
+    "lastModifiedDate": 1656332843399,
+    "dueDate": 1661107063545,
+    "state": "Active"
+  },
+  "9ac5f288-b076-4ae4-8b32-2ffc3bc7fe00": {
+    "id": "9ac5f288-b076-4ae4-8b32-2ffc3bc7fe00",
+    "text": "Review the full stack typescript code bases again. Really seems like there needs to be a beater way than what I’m doing. ",
+    "interval": 159.75059535185255,
+    "createdDate": 1652660230849,
+    "lastModifiedDate": 1657281407311,
+    "dueDate": 1663164625660,
+    "state": "Active"
+  },
+  "c887b727-f369-4a0e-a07f-3fac3d86a085": {
+    "id": "c887b727-f369-4a0e-a07f-3fac3d86a085",
+    "text": "Run you home in raspberry pi\nhttps://share.snipd.com/episode/492cbbc6-a033-4ab0-91f5-be537e64ab9d\n",
+    "interval": 130.8152885924945,
+    "createdDate": 1652703931170,
+    "lastModifiedDate": 1657200437395,
+    "dueDate": 1662794531488,
+    "state": "Active"
+  },
+  "1fb220ac-b7a6-47d0-a8a2-20c356c1d5c5": {
+    "id": "1fb220ac-b7a6-47d0-a8a2-20c356c1d5c5",
+    "text": "Felt uncomfortably full after the shwarama plate last night and still feel full this morning.",
+    "interval": 115.5669004872437,
+    "createdDate": 1652704278303,
+    "lastModifiedDate": 1656941291527,
+    "dueDate": 1661384127338,
+    "state": "Active"
+  },
+  "eab94210-e949-4774-997c-b83ffd3ecbd1": {
+    "id": "eab94210-e949-4774-997c-b83ffd3ecbd1",
+    "text": "My mind keeps going towards different ways of doing syncing with a React client. Feels like I still don't have a good understanding of the landscape / good options. ",
+    "interval": 121.33223482702365,
+    "createdDate": 1652704396835,
+    "lastModifiedDate": 1657110215981,
+    "dueDate": 1662014889579,
+    "state": "Active"
+  },
+  "d6cadaf3-9663-4833-909a-57fab537eadf": {
+    "id": "d6cadaf3-9663-4833-909a-57fab537eadf",
+    "text": "BUILD - an unorthodox guide to making things worth making",
+    "interval": 146.96406317823988,
+    "createdDate": 1652704844587,
+    "lastModifiedDate": 1657200425724,
+    "dueDate": 1662730802456,
+    "state": "Active"
+  },
+  "bfe5be36-a39c-4d69-b445-0e7e8d91d072": {
+    "id": "bfe5be36-a39c-4d69-b445-0e7e8d91d072",
+    "text": "Give quick-capture access to the camera uploads on dropbox. Watch for new photos and create a card for every new one.",
+    "interval": 84.94600672962437,
+    "createdDate": 1652704996286,
+    "lastModifiedDate": 1655816252356,
+    "dueDate": 1659420865552,
+    "state": "Active"
+  },
+  "a056d730-57fd-4c8a-9686-cd6ede92c854": {
+    "id": "a056d730-57fd-4c8a-9686-cd6ede92c854",
+    "text": "Airpod is probably under the bed",
+    "interval": 2.4304131727675866,
+    "createdDate": 1652705022300,
+    "lastModifiedDate": 1652708312047,
+    "dueDate": 1652794712047,
+    "state": "Archive"
+  },
+  "e1f85534-90e0-4bab-a3fa-7efa82392a35": {
+    "id": "e1f85534-90e0-4bab-a3fa-7efa82392a35",
+    "text": "\"there’s no behind in life, we’re just here somehow and get to experience the world for a while until we die\n\nno ahead either, nothing to chase and no peak waiting for you. They’ll just be more experiencing the world moment to moment when you get there\" - Nick",
+    "interval": 124.95249108226884,
+    "createdDate": 1652705230287,
+    "lastModifiedDate": 1657024054585,
+    "dueDate": 1661953681421,
+    "state": "Active"
+  },
+  "bcd062ab-d670-428a-90be-2d414f9660eb": {
+    "id": "bcd062ab-d670-428a-90be-2d414f9660eb",
+    "text": "Maybe do syncing like anki except the app periodically presses the sync button, and doesn't need user input. But if there's a conflict e.g. some changes on both the remote and client since last sync, then the app asks you which to go with. Like anki isn't doing anything smart to resolve conflicts, it just asks you to now choose which you want to be the new source of truth. That seems like a good compromise for my apps\n\n",
+    "interval": 130.2806743627826,
+    "createdDate": 1652709430802,
+    "lastModifiedDate": 1657024094052,
+    "dueDate": 1661888315834,
+    "state": "Active"
+  },
+  "5304ee62-d3a2-446c-988c-6ceabdf2d7bd": {
+    "id": "5304ee62-d3a2-446c-988c-6ceabdf2d7bd",
+    "text": "Project list interaction: rather than upvote/downvotes, say if want to do it in the next month, 6months, 1year, etc. then somehow aggregate those votes into a number to sort by",
+    "interval": 107.97586733622774,
+    "createdDate": 1652721928649,
+    "lastModifiedDate": 1656941215228,
+    "dueDate": 1661293759424,
+    "state": "Active"
+  },
+  "d7b665e8-b7a7-40e6-aad0-41dbf7618a8c": {
+    "id": "d7b665e8-b7a7-40e6-aad0-41dbf7618a8c",
+    "text": "Functional Design Patterns for Express.js\nhttps://pragprog.com/titles/d-jmexpress/functional-design-patterns-for-express-js/",
+    "interval": 48.55279226712814,
+    "createdDate": 1652724285903,
+    "lastModifiedDate": 1654796934143,
+    "dueDate": 1656809493024,
+    "state": "Archive"
+  },
+  "076eb12a-0d62-4994-905c-9b57a4d9c4eb": {
+    "id": "076eb12a-0d62-4994-905c-9b57a4d9c4eb",
+    "text": "https://twitter.com/reinpk/status/1526177912142974977?s=12&t=pBT0vdEzucBAd6zVlzbulg\n\nFunctional medical doctor",
+    "interval": 98.58675688257274,
+    "createdDate": 1652736207780,
+    "lastModifiedDate": 1656597221887,
+    "dueDate": 1660554475701,
+    "state": "Active"
+  },
+  "6a5da0ab-5ff4-4909-a841-e66878bdd208": {
+    "id": "6a5da0ab-5ff4-4909-a841-e66878bdd208",
+    "text": "https://biograph.com/\n\nIs there something like this in Toronto? Full body, mind, health assessment?",
+    "interval": 71.93330959583231,
+    "createdDate": 1652736428886,
+    "lastModifiedDate": 1654796294794,
+    "dueDate": 1657644920667,
+    "state": "Active"
+  },
+  "dd7f0434-0f72-4d15-8945-55f512d09170": {
+    "id": "dd7f0434-0f72-4d15-8945-55f512d09170",
+    "text": "Second city date?",
+    "interval": 5.118708525739001,
+    "createdDate": 1652752452232,
+    "lastModifiedDate": 1652908960359,
+    "dueDate": 1653090364059,
+    "state": "Archive"
+  },
+  "84fbcdc1-1808-419d-8202-f679e932f621": {
+    "id": "84fbcdc1-1808-419d-8202-f679e932f621",
+    "text": "David has a brother and sister ",
+    "interval": 1,
+    "createdDate": 1652759769847,
+    "lastModifiedDate": 1652759769847,
+    "dueDate": 1652759769847,
+    "state": "Archive"
+  },
+  "1da623a4-f394-4585-8d44-f3d82e6cb42f": {
+    "id": "1da623a4-f394-4585-8d44-f3d82e6cb42f",
+    "text": "TODO buy some bottled water ",
+    "interval": 11.751729087381674,
+    "createdDate": 1652762052907,
+    "lastModifiedDate": 1653163792593,
+    "dueDate": 1653589371243,
+    "state": "Archive"
+  },
+  "bafb79c6-4966-4b95-8cfc-6cdb288d5bd2": {
+    "id": "bafb79c6-4966-4b95-8cfc-6cdb288d5bd2",
+    "text": "https://twitter.com/carnage4life/status/1483073446045118464?s=12&t=pIQcFV389GjOZAjJIZ3f5Q\n\nCriteria for Ranking jobs",
+    "interval": 126.79910326858528,
+    "createdDate": 1652799153941,
+    "lastModifiedDate": 1656597220583,
+    "dueDate": 1661080797362,
+    "state": "Active"
+  },
+  "3206a9ed-9c1e-458c-8431-7859770c9953": {
+    "id": "3206a9ed-9c1e-458c-8431-7859770c9953",
+    "text": "Nigel bar tender ",
+    "interval": 2.0656402781839494,
+    "createdDate": 1652853695130,
+    "lastModifiedDate": 1652908949276,
+    "dueDate": 1652995349276,
+    "state": "Archive"
+  },
+  "80747851-9c3e-4ed9-940e-b39741464de9": {
+    "id": "80747851-9c3e-4ed9-940e-b39741464de9",
+    "text": "Learn a bit of game development ",
+    "interval": 132.51729206163458,
+    "createdDate": 1652888957933,
+    "lastModifiedDate": 1657583000220,
+    "dueDate": 1662452785032,
+    "state": "Active"
+  },
+  "0b07fa4f-ba84-4324-b67c-a3458938012e": {
+    "id": "0b07fa4f-ba84-4324-b67c-a3458938012e",
+    "text": "Given my usage of this, I pretty much have to renter the password every time I use it. That’s not cool bro ",
+    "interval": 60.13154103336348,
+    "createdDate": 1652909839880,
+    "lastModifiedDate": 1655220137059,
+    "dueDate": 1657709762900,
+    "state": "Active"
+  },
+  "2bc61b54-0408-4edc-9cae-338ad966cb66": {
+    "id": "2bc61b54-0408-4edc-9cae-338ad966cb66",
+    "text": "Tomorrow: move on to another topic. Don’t want to get bogged down for too long",
+    "interval": 2.226263942706817,
+    "createdDate": 1652909945100,
+    "lastModifiedDate": 1652970341905,
+    "dueDate": 1653056741905,
+    "state": "Archive"
+  },
+  "ffd62f06-88bd-432d-804c-2dcb001dcd43": {
+    "id": "ffd62f06-88bd-432d-804c-2dcb001dcd43",
+    "text": "Mistake I make: thinking siblings in a binary tree have overlapping descendant paths. They don’t. Each subtree below is completely independent of those of its siblings ",
+    "interval": 49.865104251812596,
+    "createdDate": 1652910326382,
+    "lastModifiedDate": 1654796800659,
+    "dueDate": 1656625470850,
+    "state": "Archive"
+  },
+  "a9147f10-83be-4f23-90f6-dd7b867195a0": {
+    "id": "a9147f10-83be-4f23-90f6-dd7b867195a0",
+    "text": "Less than a month left before season 3 of For All Mankind! Time to catch up if you haven’t already!",
+    "interval": 4.919961214586486,
+    "createdDate": 1652929422814,
+    "lastModifiedDate": 1653163696073,
+    "dueDate": 1653367425732,
+    "state": "Archive"
+  },
+  "dff70827-a1a0-40c5-9026-56164f5a6a81": {
+    "id": "dff70827-a1a0-40c5-9026-56164f5a6a81",
+    "text": "Slow productivity: if you want to be productive on the scale of years, your days will look very different than if you want to be productive on the scale of days\n\nRelated: You can't optimize a system by optimizing each of it's subsystems. The optimal system will always contain sub-optimal subsystems. ",
+    "interval": 146.07697062465695,
+    "createdDate": 1652976032454,
+    "lastModifiedDate": 1657281340708,
+    "dueDate": 1662461411698,
+    "state": "Active"
+  },
+  "9eea01f7-9aaf-4162-b906-7248025a8cd3": {
+    "id": "9eea01f7-9aaf-4162-b906-7248025a8cd3",
+    "text": "Adventure game where you solve the major scientific puzzles of history. Was imagining realistic 3d game where you figure out the distance to the sun by looking at it",
+    "interval": 67.33363138474297,
+    "createdDate": 1652978004876,
+    "lastModifiedDate": 1655219081921,
+    "dueDate": 1657998295694,
+    "state": "Active"
+  },
+  "c052ff06-da44-4a0b-92ad-bbeccf78ffb3": {
+    "id": "c052ff06-da44-4a0b-92ad-bbeccf78ffb3",
+    "text": "When you do some work, if you want that work to productively continue from where you left off, you need to spend some amount of time preparing the hand off. This is true on large scales eg with documentation, knowledge transfers, etc. but it’s also true at the small scale: doing 1 hour of work on a personal project which you’ll work on again tomorrow should have 1-5min of wrap up / clean up / next stepping to help tomorrow-you pick it up. GTD kind of touches on this in its concept of reviews but this feels like a more general thing ",
+    "interval": 119.21307462028726,
+    "createdDate": 1652978022875,
+    "lastModifiedDate": 1657024066594,
+    "dueDate": 1661840356410,
+    "state": "Active"
+  },
+  "3be08f03-aaab-4bdc-b92f-76dee465627c": {
+    "id": "3be08f03-aaab-4bdc-b92f-76dee465627c",
+    "text": "Api which takes in little text notes, then holds onto them until the Anki api comes only then adds them there",
+    "interval": 122.83765901998886,
+    "createdDate": 1652978038542,
+    "lastModifiedDate": 1657582984577,
+    "dueDate": 1662519435529,
+    "state": "Active"
+  },
+  "b2703665-41dc-4901-a321-a5649cba857f": {
+    "id": "b2703665-41dc-4901-a321-a5649cba857f",
+    "text": "https://share.snipd.com/episode/a459f1df-09b0-443a-8b98-718a979dc9e0\n\nI want to use my computer to augment my memory. And I want my memories to be mine!",
+    "interval": 108.90322067109558,
+    "createdDate": 1652983307154,
+    "lastModifiedDate": 1656683613445,
+    "dueDate": 1660936617498,
+    "state": "Active"
+  },
+  "413a09f5-929c-4765-90d9-63e5b7c48497": {
+    "id": "413a09f5-929c-4765-90d9-63e5b7c48497",
+    "text": "Coldshots",
+    "interval": 2.1296021603024395,
+    "createdDate": 1653015600400,
+    "lastModifiedDate": 1653163634384,
+    "dueDate": 1653250034384,
+    "state": "Archive"
+  },
+  "2428814c-7b38-485b-bf1a-a5843ca956b6": {
+    "id": "2428814c-7b38-485b-bf1a-a5843ca956b6",
+    "text": "Chalk bock",
+    "interval": 2.1189967293667897,
+    "createdDate": 1653018227471,
+    "lastModifiedDate": 1653163637719,
+    "dueDate": 1653250037719,
+    "state": "Archive"
+  },
+  "5a49b03a-b9a8-4b1b-b7f9-bd9bd9efb25c": {
+    "id": "5a49b03a-b9a8-4b1b-b7f9-bd9bd9efb25c",
+    "text": "https://twitter.com/visakanv/status/1527616746479157248?s=12&t=fmFq3Rscoel8YoSvZ3degg",
+    "interval": 67.6550096865246,
+    "createdDate": 1653048020783,
+    "lastModifiedDate": 1655220147114,
+    "dueDate": 1657692875658,
+    "state": "Active"
+  },
+  "cf0122ef-6095-4b0d-abaf-85176dfe0ec1": {
+    "id": "cf0122ef-6095-4b0d-abaf-85176dfe0ec1",
+    "text": "Really need to fix this login situation",
+    "interval": 53.24845531231921,
+    "createdDate": 1653092749437,
+    "lastModifiedDate": 1654796291404,
+    "dueDate": 1656864206644,
+    "state": "Archive"
+  },
+  "00af64dc-0f1c-4b56-bd9f-7a511369b25e": {
+    "id": "00af64dc-0f1c-4b56-bd9f-7a511369b25e",
+    "text": "Want the equivalent of pulling up my note pad to write down a few things I need to do right now. A mini working space for the next 10min\n\nHow could this app support that?\n\nMaybe instead of note entry being a little text box area like this, you get a full screen text box always. And it’s not like you have to “enter” it. The note is already created when you start and now you’re just editing it",
+    "interval": 116.78097446525005,
+    "createdDate": 1653092893044,
+    "lastModifiedDate": 1656597290443,
+    "dueDate": 1660806732481,
+    "state": "Active"
+  },
+  "1f492b55-7e96-4794-aa73-22f118fa02a2": {
+    "id": "1f492b55-7e96-4794-aa73-22f118fa02a2",
+    "text": "Upgrade Marriott room",
+    "interval": 2.2423106659540135,
+    "createdDate": 1653093064619,
+    "lastModifiedDate": 1653163738126,
+    "dueDate": 1653250138126,
+    "state": "Archive"
+  },
+  "8a9bf1f9-eacf-4ede-bd53-8c27ebd5328f": {
+    "id": "8a9bf1f9-eacf-4ede-bd53-8c27ebd5328f",
+    "text": "Justin’s sons name is Torin. Mikes gf name is ?shannon. ",
+    "interval": 2.453315986012099,
+    "createdDate": 1653093130655,
+    "lastModifiedDate": 1653163740146,
+    "dueDate": 1653250140146,
+    "state": "Archive"
+  },
+  "8dd9d052-6b24-4967-b7c1-9ceccd0a8061": {
+    "id": "8dd9d052-6b24-4967-b7c1-9ceccd0a8061",
+    "text": "https://twitter.com/tangjeff0/status/1527972094629363712?s=12&t=wyMq-mRrGyPWojSHMwX6Pg",
+    "interval": 2.2483244390850956,
+    "createdDate": 1653134764120,
+    "lastModifiedDate": 1653163819699,
+    "dueDate": 1653250219699,
+    "state": "Archive"
+  },
+  "4d8d503f-8655-418c-897a-8c9387085d42": {
+    "id": "4d8d503f-8655-418c-897a-8c9387085d42",
+    "text": "Scott’s gf been with for 3 years and is a gymnastics coach",
+    "interval": 2.262150046079998,
+    "createdDate": 1653154494770,
+    "lastModifiedDate": 1653163823712,
+    "dueDate": 1653250223712,
+    "state": "Archive"
+  },
+  "51639289-85d6-4dfd-bd27-3de684684ead": {
+    "id": "51639289-85d6-4dfd-bd27-3de684684ead",
+    "text": "Kathy goes by GiGi",
+    "interval": 2.4387608864814307,
+    "createdDate": 1653156926698,
+    "lastModifiedDate": 1653163824296,
+    "dueDate": 1653250224296,
+    "state": "Archive"
+  },
+  "05ec9ed1-e96b-46c5-a563-22bd0b8b00e0": {
+    "id": "05ec9ed1-e96b-46c5-a563-22bd0b8b00e0",
+    "text": "Try the ultorg app for prototyping a code of points / rules app that I put in a database ",
+    "interval": 61.411245267829074,
+    "createdDate": 1653158697749,
+    "lastModifiedDate": 1655219739465,
+    "dueDate": 1657763068116,
+    "state": "Active"
+  },
+  "9e83993d-d575-46a5-b7f3-5b18350f9686": {
+    "id": "9e83993d-d575-46a5-b7f3-5b18350f9686",
+    "text": "Mike has a sister who has kids who like dinosaurs",
+    "interval": 1,
+    "createdDate": 1653179454406,
+    "lastModifiedDate": 1653179454406,
+    "dueDate": 1653179454406,
+    "state": "Archive"
+  },
+  "cdc11d0d-b3da-43cd-9796-50b7648ab5dd": {
+    "id": "cdc11d0d-b3da-43cd-9796-50b7648ab5dd",
+    "text": "Email gma re visiting ",
+    "interval": 11.750214462040871,
+    "createdDate": 1653239618119,
+    "lastModifiedDate": 1653575141727,
+    "dueDate": 1654051422333,
+    "state": "Archive"
+  },
+  "33eae997-e33c-4887-8345-94c391c79efe": {
+    "id": "33eae997-e33c-4887-8345-94c391c79efe",
+    "text": "Show HN: Remult – a CRUD framework for full-stack TypeScript\n\nhttps://twitter.com/newsycombinator/status/1528420797517266944?s=12&t=GV092rIEpM9AT6vIamu6Lw",
+    "interval": 130.98029677687373,
+    "createdDate": 1653245093966,
+    "lastModifiedDate": 1657281402305,
+    "dueDate": 1662253313115,
+    "state": "Active"
+  },
+  "a7d2c837-7602-4833-93f4-21e0cc7634a2": {
+    "id": "a7d2c837-7602-4833-93f4-21e0cc7634a2",
+    "text": "Wrap text on cards",
+    "interval": 23.707319083488773,
+    "createdDate": 1653245356304,
+    "lastModifiedDate": 1653927425618,
+    "dueDate": 1654846244748,
+    "state": "Archive"
+  },
+  "2e00e2c9-bcdd-4384-83aa-67acde9e8c26": {
+    "id": "2e00e2c9-bcdd-4384-83aa-67acde9e8c26",
+    "text": "Fix login",
+    "interval": 57.78765510795995,
+    "createdDate": 1653245378617,
+    "lastModifiedDate": 1655220132353,
+    "dueDate": 1657245659023,
+    "state": "Archive"
+  },
+  "d9782867-4123-46f6-aa71-05d39f5f9f61": {
+    "id": "d9782867-4123-46f6-aa71-05d39f5f9f61",
+    "text": "Put driver and putter into bag",
+    "interval": 1,
+    "createdDate": 1653245394127,
+    "lastModifiedDate": 1653245394127,
+    "dueDate": 1653245394127,
+    "state": "Archive"
+  },
+  "3a67a6e9-9353-4dad-bb22-59e4951b33c1": {
+    "id": "3a67a6e9-9353-4dad-bb22-59e4951b33c1",
+    "text": "Seph Gentle CRDT guy blog",
+    "interval": 86.82940492362762,
+    "createdDate": 1653248560969,
+    "lastModifiedDate": 1656597419390,
+    "dueDate": 1660168365218,
+    "state": "Active"
+  },
+  "d12ce3df-60c6-4064-8617-e3d1465041ef": {
+    "id": "d12ce3df-60c6-4064-8617-e3d1465041ef",
+    "text": "I’ve thought before about keeping a unified log of every time I “like” something (a page, video, paragraph, etc). What if instead, I just log that I “felt like” with a timestamp, and then passively capture as much surrounding context as possible, and attach the like to all of it",
+    "interval": 146.21500330011722,
+    "createdDate": 1653277602159,
+    "lastModifiedDate": 1657281400058,
+    "dueDate": 1662440622512,
+    "state": "Active"
+  },
+  "6709b196-8104-4402-98a1-f74eaaf2c189": {
+    "id": "6709b196-8104-4402-98a1-f74eaaf2c189",
+    "text": "Pay nick",
+    "interval": 2.443085163960554,
+    "createdDate": 1653277924596,
+    "lastModifiedDate": 1653329191226,
+    "dueDate": 1653415591226,
+    "state": "Archive"
+  },
+  "ad8febc8-3b17-4497-ab76-253b3e502e70": {
+    "id": "ad8febc8-3b17-4497-ab76-253b3e502e70",
+    "text": "Listening to podcast. Press button to interrupt and ask a question like “what does X mean?”. An LLM model generates and answer which is read out to you. You then optionally ask to have that added as a flashcard to your deck. ",
+    "interval": 61.56738854036414,
+    "createdDate": 1653324685464,
+    "lastModifiedDate": 1655219567192,
+    "dueDate": 1657866043634,
+    "state": "Active"
+  },
+  "839a4899-7627-4853-8336-35714f074fe3": {
+    "id": "839a4899-7627-4853-8336-35714f074fe3",
+    "text": "Want to expand this inbox to fullscreen",
+    "interval": 56.394699593904825,
+    "createdDate": 1653340171510,
+    "lastModifiedDate": 1655219615234,
+    "dueDate": 1657348600704,
+    "state": "Active"
+  },
+  "e0d05d80-4319-4a2a-b405-ff61ed8e6e7f": {
+    "id": "e0d05d80-4319-4a2a-b405-ff61ed8e6e7f",
+    "text": "#upvote CRDTs, local-first, data ownership",
+    "interval": 100.04398202753241,
+    "createdDate": 1653354504917,
+    "lastModifiedDate": 1656597380566,
+    "dueDate": 1660555629233,
+    "state": "Active"
+  },
+  "8c75ae09-3e64-4d95-947f-2b308a501d5e": {
+    "id": "8c75ae09-3e64-4d95-947f-2b308a501d5e",
+    "text": "Why Marc Andreessen would be heading after web3/crypto networks like a heat seeking missile if he were starting his career from scratch https://youtu.be/qCJnQ4kMaKU?t=3780 ",
+    "interval": 131.1291797251789,
+    "createdDate": 1653355025605,
+    "lastModifiedDate": 1657582986049,
+    "dueDate": 1662351024512,
+    "state": "Active"
+  },
+  "b9be50ab-7cc7-451c-a79d-98cf4cd9e0a2": {
+    "id": "b9be50ab-7cc7-451c-a79d-98cf4cd9e0a2",
+    "text": "Add source of cards flowing into quick capture. So eg if highlights flow in, the book they come from can be used as a filter",
+    "interval": 70.97446001979797,
+    "createdDate": 1653355278401,
+    "lastModifiedDate": 1655219214821,
+    "dueDate": 1657781633594,
+    "state": "Active"
+  },
+  "68f36a96-5d19-45b9-990b-deaadae8041b": {
+    "id": "68f36a96-5d19-45b9-990b-deaadae8041b",
+    "text": "Track avg work per week and then just aim for that. Have trigger-action plans eg if you notice you’re beating yourself up, or pushing yourself to hard, its time to ease off ",
+    "interval": 113.81244491242363,
+    "createdDate": 1653402260738,
+    "lastModifiedDate": 1657281410842,
+    "dueDate": 1661542359780,
+    "state": "Active"
+  },
+  "21ae276f-db0b-4dce-a719-9cb5696579aa": {
+    "id": "21ae276f-db0b-4dce-a719-9cb5696579aa",
+    "text": "It’s a marathon not a sprint",
+    "interval": 76.49092301096525,
+    "createdDate": 1653402562000,
+    "lastModifiedDate": 1655328574216,
+    "dueDate": 1658051159466,
+    "state": "Active"
+  },
+  "f69690c4-29b2-4ba3-978b-fb72538537da": {
+    "id": "f69690c4-29b2-4ba3-978b-fb72538537da",
+    "text": "https://www.inkandswitch.com/local-first/\nMaybe reread",
+    "interval": 65.05648292163964,
+    "createdDate": 1653405849975,
+    "lastModifiedDate": 1655219540349,
+    "dueDate": 1657663793674,
+    "state": "Active"
+  },
+  "d4fecf7f-ac7d-49fd-95f6-a9b4b3bf1f99": {
+    "id": "d4fecf7f-ac7d-49fd-95f6-a9b4b3bf1f99",
+    "text": "What’s a “big impact” thing to aim at? An example: make it easy for anyone to quickly and easily build personal tools to improve their lives ",
+    "interval": 122.48835190940628,
+    "createdDate": 1653411488242,
+    "lastModifiedDate": 1657582995042,
+    "dueDate": 1662728751142,
+    "state": "Active"
+  },
+  "472f2efc-9aa8-497c-b496-3b6272140f3c": {
+    "id": "472f2efc-9aa8-497c-b496-3b6272140f3c",
+    "text": "Want life dashboard. Health, writing, hours worked, etc",
+    "interval": 68.84463526859035,
+    "createdDate": 1653412298195,
+    "lastModifiedDate": 1655219593525,
+    "dueDate": 1657665392443,
+    "state": "Active"
+  },
+  "612c1596-e847-4458-a8f8-5cf26af7e95d": {
+    "id": "612c1596-e847-4458-a8f8-5cf26af7e95d",
+    "text": "If all parts of you really really actually believed that your future selves were different from you in the same way other people are different from you, the it shouldn’t feel *at all* different to make your own life better vs the lives of others better",
+    "interval": 123.16735558760828,
+    "createdDate": 1653412597931,
+    "lastModifiedDate": 1657281419310,
+    "dueDate": 1661949351830,
+    "state": "Active"
+  },
+  "562d81d3-b347-4461-97c5-74ad0719b4f1": {
+    "id": "562d81d3-b347-4461-97c5-74ad0719b4f1",
+    "text": "A post on how to use Automerge on a simple react project would be a great signal of what I’m interested in ",
+    "interval": 131.37114656028228,
+    "createdDate": 1653413979534,
+    "lastModifiedDate": 1657582938185,
+    "dueDate": 1662406359693,
+    "state": "Active"
+  },
+  "b2b44483-a529-43ae-95e5-146f0d6ebfda": {
+    "id": "b2b44483-a529-43ae-95e5-146f0d6ebfda",
+    "text": "Venkatesh Rao on Twitter: \"This is gibberish based on a graph of trends in crowdsourced predictions. It's an *opinion poll*, not even something vaguely meaningful like sizes of models measured in parameter terms or amount of training data. Like saying \"estimated time to the Rapture has fallen 70%\"\"\" / Twitter\nhttps://twitter.com/vgr/status/1529159990761734146",
+    "interval": 1,
+    "createdDate": 1653416252821,
+    "lastModifiedDate": 1653416252821,
+    "dueDate": 1653416252821,
+    "state": "Archive"
+  },
+  "f4b2bb0b-53f0-4f02-bc2c-3b8f7645491d": {
+    "id": "f4b2bb0b-53f0-4f02-bc2c-3b8f7645491d",
+    "text": "Gordon Brander on Twitter: \"Prehistoric Planet is the best thing I have ever seen on TV.\" / Twitter\nhttps://twitter.com/gordonbrander/status/1529159936931835904",
+    "interval": 109.47757180340173,
+    "createdDate": 1653416841942,
+    "lastModifiedDate": 1657200431960,
+    "dueDate": 1661618512688,
+    "state": "Active"
+  },
+  "ab3eb9e5-9be2-46f8-89d7-1615b2502a38": {
+    "id": "ab3eb9e5-9be2-46f8-89d7-1615b2502a38",
+    "text": "Gordon Brander on Twitter: \"I am literally begging web3 identity/reputation/credential maximalists to read Seeing Like a State.\" / Twitter\nhttps://twitter.com/gordonbrander/status/1448136523908407296",
+    "interval": 1,
+    "createdDate": 1653417268476,
+    "lastModifiedDate": 1653417268476,
+    "dueDate": 1653417268476,
+    "state": "Archive"
+  },
+  "f9d0ed30-d158-4eb8-aefd-c1664ecbdccc": {
+    "id": "f9d0ed30-d158-4eb8-aefd-c1664ecbdccc",
+    "text": "Really want to upvote my notes",
+    "interval": 71.58232557980816,
+    "createdDate": 1653417359082,
+    "lastModifiedDate": 1655992125176,
+    "dueDate": 1658785617353,
+    "state": "Active"
+  },
+  "a6cbbf8e-d588-4859-b26e-b5fc66a6ce8e": {
+    "id": "a6cbbf8e-d588-4859-b26e-b5fc66a6ce8e",
+    "text": "If I use the auth layer method of redirecting to a validation app, I can have the app save a token in indexedDb. Maybe if I do that it’ll persist on safari unlike the cookie",
+    "interval": 56.09378527841943,
+    "createdDate": 1653428928559,
+    "lastModifiedDate": 1655816353333,
+    "dueDate": 1657904891951,
+    "state": "Active"
+  },
+  "3da2a892-b0aa-4cae-b8d0-c69fb9ff2550": {
+    "id": "3da2a892-b0aa-4cae-b8d0-c69fb9ff2550",
+    "text": "I can connect my phone to my laptop to view cookies. I could do that to check if the cookies from my mock auth app are being cleared",
+    "interval": 67.05418702630732,
+    "createdDate": 1653429297514,
+    "lastModifiedDate": 1655816361678,
+    "dueDate": 1658224941711,
+    "state": "Active"
+  },
+  "45cff03c-e84a-4eb4-be3a-11aef977947f": {
+    "id": "45cff03c-e84a-4eb4-be3a-11aef977947f",
+    "text": "Focusing. In the first step, you’re noting any problems in mind or that come to mind while clearing a space. If you’re starting with a felt sense you don’t understand, this step is not trying to find the problem associated with the sense. You’re just putting some distance between you and your problems so you can focus on the felt sense",
+    "interval": 70.27075585450416,
+    "createdDate": 1653430032854,
+    "lastModifiedDate": 1655901605119,
+    "dueDate": 1658582664346,
+    "state": "Active"
+  },
+  "26226e99-7cb4-4493-9507-fb3564960e5b": {
+    "id": "26226e99-7cb4-4493-9507-fb3564960e5b",
+    "text": "Retired: Training from scratch to solve a specific problem\n\nTired: fine-tuning on that task\n\nWired: Giving a few examples in-context of successfully solving that task \n\nInspired: Just write \"'Let's think step by step'\" before each answer.\nhttps://twitter.com/miles_brundage/status/1529281050681044992?s=12&t=VANcdTIRZ8SXi68eRspwGA",
+    "interval": 60.444055845459594,
+    "createdDate": 1653447012820,
+    "lastModifiedDate": 1655728945494,
+    "dueDate": 1658062199431,
+    "state": "Active"
+  },
+  "ab0d8533-c0f3-4fca-b7a4-85fcb64946fc": {
+    "id": "ab0d8533-c0f3-4fca-b7a4-85fcb64946fc",
+    "text": "Prepared for interview. Post about CRDTs. Post about person app infra. Quick capture app",
+    "interval": 67.99634716482349,
+    "createdDate": 1653498882343,
+    "lastModifiedDate": 1655816242053,
+    "dueDate": 1658417749224,
+    "state": "Active"
+  },
+  "f0cc99a5-8b92-4d99-a16a-e8bf6d76d74e": {
+    "id": "f0cc99a5-8b92-4d99-a16a-e8bf6d76d74e",
+    "text": "My trigger-action plan when feeling “don’t wanna work but feel like I should power through” is “let’s quickly check twitter for a bit”. Not very good plan!",
+    "interval": 60.5741235815878,
+    "createdDate": 1653505766804,
+    "lastModifiedDate": 1655728942961,
+    "dueDate": 1658080796498,
+    "state": "Active"
+  },
+  "2c1015e6-804a-4598-a09f-1759cd68cbee": {
+    "id": "2c1015e6-804a-4598-a09f-1759cd68cbee",
+    "text": "Want physio for my should / get it checked out",
+    "interval": 64.90401394627013,
+    "createdDate": 1653505903082,
+    "lastModifiedDate": 1655728947475,
+    "dueDate": 1658091748031,
+    "state": "Active"
+  },
+  "759f87c8-d887-441f-8214-7a2127a10e5e": {
+    "id": "759f87c8-d887-441f-8214-7a2127a10e5e",
+    "text": "Try doing a project while using copilot as much as possible. How quickly can it be done?",
+    "interval": 47.993055205063015,
+    "createdDate": 1653517444610,
+    "lastModifiedDate": 1655729093074,
+    "dueDate": 1657718477256,
+    "state": "Active"
+  },
+  "af5fa4f4-c9d0-42f5-8fb6-f16bd20df325": {
+    "id": "af5fa4f4-c9d0-42f5-8fb6-f16bd20df325",
+    "text": "Attenborough AND dinosaurs? Am I having a sex dream?",
+    "interval": 10.914354217948166,
+    "createdDate": 1653537140289,
+    "lastModifiedDate": 1653927261783,
+    "dueDate": 1654366964050,
+    "state": "Archive"
+  },
+  "5abb2096-6c8d-451b-b1eb-11a8df960adf": {
+    "id": "5abb2096-6c8d-451b-b1eb-11a8df960adf",
+    "text": "Want to play with a variation on ankify-roam where I let roam render the html and then I just copy it ",
+    "interval": 67.52618034228377,
+    "createdDate": 1653574293555,
+    "lastModifiedDate": 1655728954060,
+    "dueDate": 1658102064271,
+    "state": "Active"
+  },
+  "10d1dd66-b7a4-4108-bd73-c89f2217d012": {
+    "id": "10d1dd66-b7a4-4108-bd73-c89f2217d012",
+    "text": "When I want to quickly capture a thought, I don't like that I see a bunch of other thoughts above. Like maybe that shouldn't be the default?",
+    "interval": 64.93595347206274,
+    "createdDate": 1653574354280,
+    "lastModifiedDate": 1655816249328,
+    "dueDate": 1658174595907,
+    "state": "Active"
+  },
+  "359ef1a5-c3f5-4235-872a-effc6e08846e": {
+    "id": "359ef1a5-c3f5-4235-872a-effc6e08846e",
+    "text": "Counter to the “have roam render for Ankify roam”: there are other use cases where I wanna know how to parse roams markdown syntax eg to grab and run code blocks that I store in Roam",
+    "interval": 57.46844044287245,
+    "createdDate": 1653583580197,
+    "lastModifiedDate": 1655729302556,
+    "dueDate": 1657783312566,
+    "state": "Active"
+  },
+  "c117cafa-0654-4b34-95dc-8d1e4ff89f52": {
+    "id": "c117cafa-0654-4b34-95dc-8d1e4ff89f52",
+    "text": "Once I’m seriously on the job hunt, there’s still only so much time I can spend reaching out and doing interviews. I can use remaining time to work on projects and/or blog posts",
+    "interval": 57.66966457956236,
+    "createdDate": 1653599232601,
+    "lastModifiedDate": 1655816256019,
+    "dueDate": 1657941747135,
+    "state": "Active"
+  },
+  "03749fb4-8077-4d7d-b598-bc2918e52c37": {
+    "id": "03749fb4-8077-4d7d-b598-bc2918e52c37",
+    "text": "Nick: you still golfing a lot?",
+    "interval": 2.42054061122169,
+    "createdDate": 1653599986451,
+    "lastModifiedDate": 1653655236526,
+    "dueDate": 1653741636526,
+    "state": "Archive"
+  },
+  "b181e720-9dcc-4edd-b3e3-381d0378db41": {
+    "id": "b181e720-9dcc-4edd-b3e3-381d0378db41",
+    "text": "Half swing drill\nHips drill\nHand distance from belly button to handle\nBall middle iron facing left hip\nBall front foot driver pointing to belly button\nDon’t lead with hands. Pass through straight on drive. Think of the bag drill.\nDon’t look up. Action should turn you naturally. \nBaseball drill. Whack it baby!\n",
+    "interval": 1,
+    "createdDate": 1653614322830,
+    "lastModifiedDate": 1653614322830,
+    "dueDate": 1653614322830,
+    "state": "Archive"
+  },
+  "00071c92-9067-49cd-9f52-c387312f45b1": {
+    "id": "00071c92-9067-49cd-9f52-c387312f45b1",
+    "text": "want to #upvote notes again",
+    "interval": 60.36174147946972,
+    "createdDate": 1653655784153,
+    "lastModifiedDate": 1655816253190,
+    "dueDate": 1658256045835,
+    "state": "Active"
+  },
+  "103c3f09-179f-4b38-aafd-c180367fd218": {
+    "id": "103c3f09-179f-4b38-aafd-c180367fd218",
+    "text": "Buy some tshirts",
+    "interval": 46.22526187302641,
+    "createdDate": 1653661924058,
+    "lastModifiedDate": 1655729218955,
+    "dueDate": 1657681441524,
+    "state": "Active"
+  },
+  "3ee1490e-5a57-44d0-b377-42b1f665f844": {
+    "id": "3ee1490e-5a57-44d0-b377-42b1f665f844",
+    "text": "Put label on bottom of liquor saying who gave it to me",
+    "interval": 60.6195669692441,
+    "createdDate": 1653662046623,
+    "lastModifiedDate": 1655816235283,
+    "dueDate": 1658302936892,
+    "state": "Active"
+  },
+  "23d94b1c-79a8-44a4-8925-3017e712ccd5": {
+    "id": "23d94b1c-79a8-44a4-8925-3017e712ccd5",
+    "text": "Repo which has a roam rest api server plus a separate node library which builds on top and mimics roamAlphaAPI. Maybe leave open possibility to add other language support",
+    "interval": 73.99470104229366,
+    "createdDate": 1653665977831,
+    "lastModifiedDate": 1655992133031,
+    "dueDate": 1658617827785,
+    "state": "Active"
+  },
+  "24cb8ef7-91d5-496b-9db5-24aaec2c6aef": {
+    "id": "24cb8ef7-91d5-496b-9db5-24aaec2c6aef",
+    "text": "https://twitter.com/penberg/status/1530100631314354176?s=12&t=CcZYvD_bBcFMN9Q3d0drWw\n\nSimple backend setup with replicache",
+    "interval": 110.29532423934242,
+    "createdDate": 1653669754229,
+    "lastModifiedDate": 1657582914093,
+    "dueDate": 1661509440455,
+    "state": "Active"
+  },
+  "86bc5bf2-f989-4243-b049-2af564ed574f": {
+    "id": "86bc5bf2-f989-4243-b049-2af564ed574f",
+    "text": "Sam and George ",
+    "interval": 1,
+    "createdDate": 1653692509646,
+    "lastModifiedDate": 1653692509646,
+    "dueDate": 1653692509646,
+    "state": "Archive"
+  },
+  "694ab77a-8fe3-42f6-a989-467c353acdc4": {
+    "id": "694ab77a-8fe3-42f6-a989-467c353acdc4",
+    "text": "Adrean",
+    "interval": 1,
+    "createdDate": 1653703467174,
+    "lastModifiedDate": 1653703467174,
+    "dueDate": 1653703467174,
+    "state": "Archive"
+  },
+  "5ecc30e1-996a-4406-a7df-93b5b31f1ca7": {
+    "id": "5ecc30e1-996a-4406-a7df-93b5b31f1ca7",
+    "text": "Derek",
+    "interval": 1,
+    "createdDate": 1653706700792,
+    "lastModifiedDate": 1653706700792,
+    "dueDate": 1653706700792,
+    "state": "Archive"
+  },
+  "661d25e3-5a70-4c7e-9736-d2129c97c7e3": {
+    "id": "661d25e3-5a70-4c7e-9736-d2129c97c7e3",
+    "text": "Long hair blond guy from pulsars. Business and comp sci degree",
+    "interval": 54.895123018840735,
+    "createdDate": 1653715681850,
+    "lastModifiedDate": 1655729094590,
+    "dueDate": 1657864076132,
+    "state": "Active"
+  },
+  "5b7f5895-4b8a-40b8-8fe2-a608edac3e79": {
+    "id": "5b7f5895-4b8a-40b8-8fe2-a608edac3e79",
+    "text": "Carlos drove us",
+    "interval": 2.3615451245589703,
+    "createdDate": 1653716476277,
+    "lastModifiedDate": 1653926190917,
+    "dueDate": 1654012590917,
+    "state": "Archive"
+  },
+  "c6df2104-1251-4e8c-8537-914d16e9ef3f": {
+    "id": "c6df2104-1251-4e8c-8537-914d16e9ef3f",
+    "text": "Carlos",
+    "interval": 2.077860390800605,
+    "createdDate": 1653721478944,
+    "lastModifiedDate": 1653926191373,
+    "dueDate": 1654012591373,
+    "state": "Archive"
+  },
+  "0e4fee3f-051f-47ba-b0f1-52b161c1162e": {
+    "id": "0e4fee3f-051f-47ba-b0f1-52b161c1162e",
+    "text": "Why didn’t you ask about Aba to me ",
+    "interval": 1,
+    "createdDate": 1653724554282,
+    "lastModifiedDate": 1653724554282,
+    "dueDate": 1653724554282,
+    "state": "Archive"
+  },
+  "91e4ac58-f62c-4639-99e6-8319bb929e67": {
+    "id": "91e4ac58-f62c-4639-99e6-8319bb929e67",
+    "text": "Add “are you getting drunk?” to packing list",
+    "interval": 1,
+    "createdDate": 1653750975486,
+    "lastModifiedDate": 1653750975486,
+    "dueDate": 1653750975486,
+    "state": "Archive"
+  },
+  "792d12e2-9368-4554-b9e9-8c62e5406059": {
+    "id": "792d12e2-9368-4554-b9e9-8c62e5406059",
+    "text": "What’s Toms wife’s name?",
+    "interval": 1,
+    "createdDate": 1653751365937,
+    "lastModifiedDate": 1653751365937,
+    "dueDate": 1653751365937,
+    "state": "Archive"
+  },
+  "2252ef3b-9a24-45c5-b501-33dcf2ad7223": {
+    "id": "2252ef3b-9a24-45c5-b501-33dcf2ad7223",
+    "text": "Flemingdon Park Golf Course",
+    "interval": 1,
+    "createdDate": 1653753690017,
+    "lastModifiedDate": 1653753690017,
+    "dueDate": 1653753690017,
+    "state": "Archive"
+  },
+  "bc66f2e2-2ad6-45f3-b642-d09128ccca2d": {
+    "id": "bc66f2e2-2ad6-45f3-b642-d09128ccca2d",
+    "text": "Kevin has a girlfriend. Her name is Steph. He’s got a fintech job doing SQL",
+    "interval": 1,
+    "createdDate": 1653753713884,
+    "lastModifiedDate": 1653753713884,
+    "dueDate": 1653753713884,
+    "state": "Archive"
+  },
+  "d51e12e3-5918-41c9-b751-6bdddfc8e1dd": {
+    "id": "d51e12e3-5918-41c9-b751-6bdddfc8e1dd",
+    "text": "https://twitter.com/jakeorthwein/status/1512466180212027392?s=12&t=hVY-6Vt3NjnEuJ_Es7fbXw",
+    "interval": 72.94236542037294,
+    "createdDate": 1653759979977,
+    "lastModifiedDate": 1655901573980,
+    "dueDate": 1658742440996,
+    "state": "Active"
+  },
+  "6539a403-85c5-4a36-9b52-cdc7e9ebd4df": {
+    "id": "6539a403-85c5-4a36-9b52-cdc7e9ebd4df",
+    "text": "https://vm.tiktok.com/ZMLoXr7d9/?k=1",
+    "interval": 48.90970947688664,
+    "createdDate": 1653774053402,
+    "lastModifiedDate": 1655729000149,
+    "dueDate": 1657664804834,
+    "state": "Active"
+  },
+  "66e1106c-55dc-44e2-8f9f-c7d681d31848": {
+    "id": "66e1106c-55dc-44e2-8f9f-c7d681d31848",
+    "text": "Juliano is getting married to Bridget next year. Met Danny, Bridget’s brother.  He’s wants 3 kids and partner wants 2 or 4",
+    "interval": 1,
+    "createdDate": 1653777745431,
+    "lastModifiedDate": 1653777745431,
+    "dueDate": 1653777745431,
+    "state": "Archive"
+  },
+  "45cc1640-3f33-46a9-a829-b68303506b49": {
+    "id": "45cc1640-3f33-46a9-a829-b68303506b49",
+    "text": "Use datalog query to grab the next actions from a tree of tasks",
+    "interval": 52.189666576790465,
+    "createdDate": 1653782570795,
+    "lastModifiedDate": 1655729087641,
+    "dueDate": 1657840266066,
+    "state": "Active"
+  },
+  "81381f94-f2bf-4f08-82c8-d24332863783": {
+    "id": "81381f94-f2bf-4f08-82c8-d24332863783",
+    "text": "So this is what I have become certain of: Democrats spend too much time and energy imagining the policies that a capable government could execute and not nearly enough time imagining how to make a government capable of executing them. It is not only markets that have failed.",
+    "interval": 5.239495991023221,
+    "createdDate": 1653835633615,
+    "lastModifiedDate": 1654003064325,
+    "dueDate": 1654218378209,
+    "state": "Archive"
+  },
+  "613dc4d7-93bf-4d2e-8cf1-3a7a97e4c768": {
+    "id": "613dc4d7-93bf-4d2e-8cf1-3a7a97e4c768",
+    "text": "https://www.reddit.com/r/mlscaling/comments/uznkhw/gpt3_2nd_anniversary/",
+    "interval": 1,
+    "createdDate": 1653835988648,
+    "lastModifiedDate": 1653835988648,
+    "dueDate": 1653835988648,
+    "state": "Archive"
+  },
+  "2eb2dbe3-a9a7-48ee-852f-70b75643532e": {
+    "id": "2eb2dbe3-a9a7-48ee-852f-70b75643532e",
+    "text": "Add to coding challenge procedure: before implementing, think of some edge cases and run them through. ",
+    "interval": 2.4058489083540713,
+    "createdDate": 1653837318478,
+    "lastModifiedDate": 1653927161007,
+    "dueDate": 1654013561007,
+    "state": "Archive"
+  },
+  "ff900851-1582-4ccd-b1c8-2252751d0e36": {
+    "id": "ff900851-1582-4ccd-b1c8-2252751d0e36",
+    "text": "https://www.reddit.com/r/mlscaling/comments/uznkhw/gpt3_2nd_anniversary/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nGPT blindly memorized a lot before generalizing and meta learning. While it had a lot of parameters available, that was always easier. Eventually it needed to generalize to improve. Is this true for humans too? Can explain eg me being better at math and physics than geography?",
+    "interval": 45.754937406509505,
+    "createdDate": 1653838600281,
+    "lastModifiedDate": 1655729090524,
+    "dueDate": 1657640639936,
+    "state": "Active"
+  },
+  "35599657-8c03-42fd-89bd-0583f05a9e22": {
+    "id": "35599657-8c03-42fd-89bd-0583f05a9e22",
+    "text": "Golf club sling ",
+    "interval": 25.33119011732135,
+    "createdDate": 1653864623373,
+    "lastModifiedDate": 1654796751593,
+    "dueDate": 1655864735769,
+    "state": "Archive"
+  },
+  "d63c1a66-78e4-4114-8951-9b237eb7953f": {
+    "id": "d63c1a66-78e4-4114-8951-9b237eb7953f",
+    "text": "[[Evolution]] requires variation, **persistence**, and selection. ",
+    "interval": 109.15713392344765,
+    "createdDate": 1653929291992,
+    "lastModifiedDate": 1657582919120,
+    "dueDate": 1661366216747,
+    "state": "Active"
+  },
+  "8cdb15a1-73af-418e-9cf7-f11b1216cc13": {
+    "id": "8cdb15a1-73af-418e-9cf7-f11b1216cc13",
+    "text": "A way to make sense of a collection: think up 2x2 axes which the items vary across and then place them each on it",
+    "interval": 57.4422006723101,
+    "createdDate": 1653932952814,
+    "lastModifiedDate": 1655729285688,
+    "dueDate": 1657819096039,
+    "state": "Active"
+  },
+  "23d03252-8cee-431c-8f97-fec607f28655": {
+    "id": "23d03252-8cee-431c-8f97-fec607f28655",
+    "text": "Andrés Gómez Emilsson on Twitter: \"This is a really excellent guided meditation to get in touch with metta (and beyond!). I highly recommend it. Try doing one of these before attending a meeting and see how it changes the entire tone of the interaction 😄 https://t.co/cFcXKHoU8m\" / Twitter\nhttps://twitter.com/algekalipso/status/1531373501516460037",
+    "interval": 61.62476501249726,
+    "createdDate": 1653945240439,
+    "lastModifiedDate": 1655816363922,
+    "dueDate": 1658115426066,
+    "state": "Active"
+  },
+  "12610da4-7622-4c10-9c6c-be37837d07a8": {
+    "id": "12610da4-7622-4c10-9c6c-be37837d07a8",
+    "text": "Later: add basic auth to taylors.tech",
+    "interval": 61.23270328038543,
+    "createdDate": 1653951970311,
+    "lastModifiedDate": 1655729100623,
+    "dueDate": 1657920745376,
+    "state": "Active"
+  },
+  "ca53fdfd-daee-43ba-8527-a8e96116b79c": {
+    "id": "ca53fdfd-daee-43ba-8527-a8e96116b79c",
+    "text": "Add todos for Wednesday: take out garbage, turn off alarm, ???",
+    "interval": 1,
+    "createdDate": 1653952059476,
+    "lastModifiedDate": 1653952059476,
+    "dueDate": 1653952059476,
+    "state": "Archive"
+  },
+  "f1fc7ec2-ddef-4bf2-8fab-44d5c1c1bff8": {
+    "id": "f1fc7ec2-ddef-4bf2-8fab-44d5c1c1bff8",
+    "text": "In the second focusing movement, ask: what is the quality of this felt sense? You’re not looking for a explanation for it right now, just a word / phrase / image which captures the essence of all-that",
+    "interval": 61.34131225828328,
+    "createdDate": 1653964253815,
+    "lastModifiedDate": 1655729084056,
+    "dueDate": 1657864687583,
+    "state": "Active"
+  },
+  "502fe608-01f6-4003-bc76-7b180a5d9103": {
+    "id": "502fe608-01f6-4003-bc76-7b180a5d9103",
+    "text": "In the fifth and sixth step, you ask the felt sense, while feeling it, something like “what’s the worst of this? {handle}”. Whatever answer you get, you now use that for a new round of focusing, where you use the answer as a prompt to get a new felt sense",
+    "interval": 71.69818925145961,
+    "createdDate": 1653964870571,
+    "lastModifiedDate": 1655992136689,
+    "dueDate": 1658886122272,
+    "state": "Active"
+  },
+  "e32e16a1-56b0-49a7-bf2a-f0de3070ddb8": {
+    "id": "e32e16a1-56b0-49a7-bf2a-f0de3070ddb8",
+    "text": "Feeling down today. Similar to how I was feeling last night. How did that happen? I was feeling pretty good most of yesterday. ",
+    "interval": 13.807775882964311,
+    "createdDate": 1654001132285,
+    "lastModifiedDate": 1654269762256,
+    "dueDate": 1654770628114,
+    "state": "Archive"
+  },
+  "7ca11621-673d-49b0-984e-ab157a3c1bcd": {
+    "id": "7ca11621-673d-49b0-984e-ab157a3c1bcd",
+    "text": "This has reliably made me smile and lifted my mood each time I watch it. There's a lesson in there! https://vm.tiktok.com/ZMLoXr7d9/?k=1",
+    "interval": 70.05360900944483,
+    "createdDate": 1654003050346,
+    "lastModifiedDate": 1655901630523,
+    "dueDate": 1658329944280,
+    "state": "Active"
+  },
+  "778773ac-eead-4ae7-a0ef-9044d07e7e69": {
+    "id": "778773ac-eead-4ae7-a0ef-9044d07e7e69",
+    "text": "Why doesn’t the self illusion at 11min do it for you?",
+    "interval": 62.149536607714715,
+    "createdDate": 1654013253809,
+    "lastModifiedDate": 1655816356094,
+    "dueDate": 1658086077214,
+    "state": "Active"
+  },
+  "82afb63f-8819-425a-9fe7-755c66531bd1": {
+    "id": "82afb63f-8819-425a-9fe7-755c66531bd1",
+    "text": "52:39 Sam describes the self as a label we apply to a model / feeling / vibe within our experience and his point is that it can’t be the totality of what you are, because it’s inside your experience",
+    "interval": 57.02669867695265,
+    "createdDate": 1654015794699,
+    "lastModifiedDate": 1655728963977,
+    "dueDate": 1657962388700,
+    "state": "Active"
+  },
+  "49fb44c8-15d8-4410-af52-a03a8d0fe921": {
+    "id": "49fb44c8-15d8-4410-af52-a03a8d0fe921",
+    "text": "Pack back pack ",
+    "interval": 1,
+    "createdDate": 1654041257966,
+    "lastModifiedDate": 1654041257966,
+    "dueDate": 1654041257966,
+    "state": "Archive"
+  },
+  "40de27fc-841d-406a-bb10-9f72c92864b7": {
+    "id": "40de27fc-841d-406a-bb10-9f72c92864b7",
+    "text": "Laundry",
+    "interval": 1,
+    "createdDate": 1654051547756,
+    "lastModifiedDate": 1654051547756,
+    "dueDate": 1654051547756,
+    "state": "Archive"
+  },
+  "1712f558-4c90-425e-aa47-565a81c007ba": {
+    "id": "1712f558-4c90-425e-aa47-565a81c007ba",
+    "text": "https://github.com/git-noter/gitnoter",
+    "interval": 56.46747666599989,
+    "createdDate": 1654085514819,
+    "lastModifiedDate": 1656337738313,
+    "dueDate": 1658405832649,
+    "state": "Active"
+  },
+  "82962b9d-2d94-41f6-a451-0dbca642de80": {
+    "id": "82962b9d-2d94-41f6-a451-0dbca642de80",
+    "text": "Download the dropout",
+    "interval": 1,
+    "createdDate": 1654088610307,
+    "lastModifiedDate": 1654088610307,
+    "dueDate": 1654088610307,
+    "state": "Archive"
+  },
+  "30325474-6c47-431b-a50c-83c28405c728": {
+    "id": "30325474-6c47-431b-a50c-83c28405c728",
+    "text": "Try swapping in Roam as a backend for this app. Notes are stored on daily notes page under [[Quick Capture]]. To avoid slow load times, make app default to an entry field, and pull in notes async in the background. \n\nOnce I had that, it would be easy to pull up the note in Roam and comment on it",
+    "interval": 51.03649324262654,
+    "createdDate": 1654091728547,
+    "lastModifiedDate": 1656079104570,
+    "dueDate": 1658122045414,
+    "state": "Active"
+  },
+  "739bb791-cd42-4ace-aad3-56d552a7e18f": {
+    "id": "739bb791-cd42-4ace-aad3-56d552a7e18f",
+    "text": "Want to be able to add a todo to my app and say “you don’t need to think about this til 3pm”. Until 3pm, the todo does add to the count on the little red notification number in the app, but after 3pm it does",
+    "interval": 59.517241344731616,
+    "createdDate": 1654098641219,
+    "lastModifiedDate": 1656332953858,
+    "dueDate": 1658488906092,
+    "state": "Active"
+  },
+  "221c62f9-306c-4736-b476-dbaed7137f74": {
+    "id": "221c62f9-306c-4736-b476-dbaed7137f74",
+    "text": "https://twitter.com/austen/status/1532014048480329728?s=12&t=Dt69BSQBZWtx49VfhgaAFA\nEquals. A web excel app",
+    "interval": 63.369147454930804,
+    "createdDate": 1654099802984,
+    "lastModifiedDate": 1656420680869,
+    "dueDate": 1658696710724,
+    "state": "Active"
+  },
+  "1dbe7fe6-39ab-4e6f-91ae-a4b99b44ffc0": {
+    "id": "1dbe7fe6-39ab-4e6f-91ae-a4b99b44ffc0",
+    "text": "wants, shoulds, excitements, joy sparks are good to note and consider because they point towards things to aim at that snapshots of me wanted to aim at. And having aims and working towards them is good / feels good",
+    "interval": 65.20069445440434,
+    "createdDate": 1654107583130,
+    "lastModifiedDate": 1656332958365,
+    "dueDate": 1658670668214,
+    "state": "Active"
+  },
+  "a46dc7d9-004e-4a6b-b8ef-f914b415216c": {
+    "id": "a46dc7d9-004e-4a6b-b8ef-f914b415216c",
+    "text": "That last note reminds me of the podcast with the guy from Taiwan where they have a forum-like thing for aggregating policy ideas / what to aim at",
+    "interval": 1,
+    "createdDate": 1654107649991,
+    "lastModifiedDate": 1654107649991,
+    "dueDate": 1654107649991,
+    "state": "Archive"
+  },
+  "a65b956c-35d5-4dc7-b7fc-c1c304956a67": {
+    "id": "a65b956c-35d5-4dc7-b7fc-c1c304956a67",
+    "text": "Tell Tristan he’s a badass ",
+    "interval": 32.036555175313424,
+    "createdDate": 1654111314377,
+    "lastModifiedDate": 1655219080209,
+    "dueDate": 1656333279827,
+    "state": "Archive"
+  },
+  "ae9481c7-48df-4f98-b2a8-91355dfc17d6": {
+    "id": "ae9481c7-48df-4f98-b2a8-91355dfc17d6",
+    "text": "listen to maintence audio book",
+    "interval": 61.136637587714006,
+    "createdDate": 1654119047184,
+    "lastModifiedDate": 1656333925853,
+    "dueDate": 1658452853628,
+    "state": "Active"
+  },
+  "8001cb7c-b72b-4a1f-a7bc-fbe18b66e82b": {
+    "id": "8001cb7c-b72b-4a1f-a7bc-fbe18b66e82b",
+    "text": "tweet about maintenance / persistance",
+    "interval": 65.65529029727048,
+    "createdDate": 1654119063605,
+    "lastModifiedDate": 1656332949306,
+    "dueDate": 1658718321107,
+    "state": "Active"
+  },
+  "0e119afa-fa0e-416f-8782-f8ddeadc83a5": {
+    "id": "0e119afa-fa0e-416f-8782-f8ddeadc83a5",
+    "text": "Upvote / downvote ideas to think about. Projects to do. Types of feelings to increase / decrease. Things to do more or less of",
+    "interval": 70.41523114423936,
+    "createdDate": 1654120139812,
+    "lastModifiedDate": 1656332864983,
+    "dueDate": 1658790552088,
+    "state": "Active"
+  },
+  "e7d00181-84a4-43e7-a6b9-9e32e8f21044": {
+    "id": "e7d00181-84a4-43e7-a6b9-9e32e8f21044",
+    "text": "Humming",
+    "interval": 1,
+    "createdDate": 1654120545075,
+    "lastModifiedDate": 1654120545075,
+    "dueDate": 1654120545075,
+    "state": "Archive"
+  },
+  "4ad0a0a9-fbdc-4cd8-b144-493521f160af": {
+    "id": "4ad0a0a9-fbdc-4cd8-b144-493521f160af",
+    "text": "https://share.snipd.com/episode/ed88d082-c461-4d7d-aa53-eb4ff3ead95b\nThere’s something here! Need to understand better though. How can a app do this but with yourself across time? Identify the parts of yourself with clustering. Negotiate across them. Implement policy that satisfies all of them ",
+    "interval": 64.77255678966378,
+    "createdDate": 1654120733269,
+    "lastModifiedDate": 1656333976709,
+    "dueDate": 1658644487495,
+    "state": "Active"
+  },
+  "48c6b8c2-16c3-48d2-a197-68819d3258c2": {
+    "id": "48c6b8c2-16c3-48d2-a197-68819d3258c2",
+    "text": "Value / preference / wants / shoulds aggregator: I open the app daily, and I’m prompted with some statements that I can agree or disagree with. I can also input new statements. \n\nThis sounds similar to one of the My Lists ideas but in the Taiwan can they didn’t allow replying / commenting which I assumed if have. But maybe I can? I think they left it out to avoid interpersonal attacks. I don’t expect I’ll be attacking myself lol (or maybe I will / do?!)",
+    "interval": 57.90858936359387,
+    "createdDate": 1654126036013,
+    "lastModifiedDate": 1656332815638,
+    "dueDate": 1658652584208,
+    "state": "Active"
+  },
+  "658d286a-5b3e-488e-8435-2d015b2a69b0": {
+    "id": "658d286a-5b3e-488e-8435-2d015b2a69b0",
+    "text": "https://datatracker.ietf.org/doc/rfc7282/",
+    "interval": 54.83462733317182,
+    "createdDate": 1654135247961,
+    "lastModifiedDate": 1656333041805,
+    "dueDate": 1658486670838,
+    "state": "Active"
+  },
+  "c93d5607-ffc6-4210-8bcc-d99be80ff660": {
+    "id": "c93d5607-ffc6-4210-8bcc-d99be80ff660",
+    "text": "To reinforce that we do not vote, we have also adopted the tradition\n   of \"humming\": When, for example, we have face-to-face meetings and\n   the chair of the working group wants to get a \"sense of the room\",\n   instead of a show of hands, sometimes the chair will ask for each\n   side to hum on a particular question, either \"for\" or \"against\".",
+    "interval": 53.0356447559669,
+    "createdDate": 1654135767027,
+    "lastModifiedDate": 1656079119102,
+    "dueDate": 1658228468015,
+    "state": "Active"
+  },
+  "286685b4-0fad-432a-8348-049b487c70ab": {
+    "id": "286685b4-0fad-432a-8348-049b487c70ab",
+    "text": "AI generated code as a way to enable learning by wholes. Start at the top with a working system, explore and prode, and then work your way down. Replit is positioned to enable this",
+    "interval": 58.33593867627313,
+    "createdDate": 1654180967110,
+    "lastModifiedDate": 1656332877693,
+    "dueDate": 1658622416332,
+    "state": "Active"
+  },
+  "ae57966f-c595-44d4-8327-a99051f78581": {
+    "id": "ae57966f-c595-44d4-8327-a99051f78581",
+    "text": "Parker’s gf is Megan. She’s in Calgary right now",
+    "interval": 1,
+    "createdDate": 1654214901700,
+    "lastModifiedDate": 1654214901700,
+    "dueDate": 1654214901700,
+    "state": "Archive"
+  },
+  "fc345e21-62ac-42af-925d-4c697f7b7ef4": {
+    "id": "fc345e21-62ac-42af-925d-4c697f7b7ef4",
+    "text": "Tiff works at pharmsave in marketing ",
+    "interval": 1,
+    "createdDate": 1654214917665,
+    "lastModifiedDate": 1654214917665,
+    "dueDate": 1654214917665,
+    "state": "Archive"
+  },
+  "ff489fd2-5e3b-4b94-90b8-53d5c5550ca1": {
+    "id": "ff489fd2-5e3b-4b94-90b8-53d5c5550ca1",
+    "text": "https://twitter.com/abledoc/status/1532401610252439560?s=12&t=D7lhEAECmtk7izasWt880A\nWork at Tesla ",
+    "interval": 61.646808115483154,
+    "createdDate": 1654220266489,
+    "lastModifiedDate": 1656941327296,
+    "dueDate": 1659199253328,
+    "state": "Active"
+  },
+  "f7ab22ae-6dc8-4a0d-8324-47521e3d1027": {
+    "id": "f7ab22ae-6dc8-4a0d-8324-47521e3d1027",
+    "text": "Set up Sunday call with Ray",
+    "interval": 1,
+    "createdDate": 1654220553105,
+    "lastModifiedDate": 1654220553105,
+    "dueDate": 1654220553105,
+    "state": "Archive"
+  },
+  "7c41dc5f-3346-4706-b38a-bba706c2701e": {
+    "id": "7c41dc5f-3346-4706-b38a-bba706c2701e",
+    "text": "What’s Emily’s gmas name on dads side?",
+    "interval": 2.418089326525579,
+    "createdDate": 1654300047104,
+    "lastModifiedDate": 1654797490546,
+    "dueDate": 1654883890546,
+    "state": "Archive"
+  },
+  "be5332b4-19bd-4d67-a9df-77fb39d9f4e7": {
+    "id": "be5332b4-19bd-4d67-a9df-77fb39d9f4e7",
+    "text": "Learn the area around vancouver",
+    "interval": 2.4270820604479795,
+    "createdDate": 1654300641056,
+    "lastModifiedDate": 1654797482413,
+    "dueDate": 1654883882413,
+    "state": "Archive"
+  },
+  "c489ceb3-eb0d-447b-9366-ab98f90d33d2": {
+    "id": "c489ceb3-eb0d-447b-9366-ab98f90d33d2",
+    "text": "Train crash",
+    "interval": 1,
+    "createdDate": 1654304446682,
+    "lastModifiedDate": 1654304446682,
+    "dueDate": 1654304446682,
+    "state": "Archive"
+  },
+  "0d5d92b6-c314-4669-84c7-ce63fdf1e5d2": {
+    "id": "0d5d92b6-c314-4669-84c7-ce63fdf1e5d2",
+    "text": "Stayed at Doug and Sharon’s ",
+    "interval": 2.0842065612503675,
+    "createdDate": 1654358461797,
+    "lastModifiedDate": 1654797424397,
+    "dueDate": 1654883824397,
+    "state": "Archive"
+  },
+  "ee6119ed-c622-4c7d-ae6b-1eae37de354f": {
+    "id": "ee6119ed-c622-4c7d-ae6b-1eae37de354f",
+    "text": "Add belt to packing list ",
+    "interval": 1,
+    "createdDate": 1654358956370,
+    "lastModifiedDate": 1654358956370,
+    "dueDate": 1654358956370,
+    "state": "Archive"
+  },
+  "dacd7123-3e54-4069-8a6f-4a0252cf09f7": {
+    "id": "dacd7123-3e54-4069-8a6f-4a0252cf09f7",
+    "text": "Someday/Maybe health: nutritionist / doctor to fix my pooping problems ",
+    "interval": 67.59648310684314,
+    "createdDate": 1654362277594,
+    "lastModifiedDate": 1656941205318,
+    "dueDate": 1659328065249,
+    "state": "Active"
+  },
+  "7ead9530-831b-4e2e-b52f-7d1854c910ae": {
+    "id": "7ead9530-831b-4e2e-b52f-7d1854c910ae",
+    "text": "Guy has cancer and it wasn’t a good prognosis ",
+    "interval": 13.76827193664217,
+    "createdDate": 1654375866590,
+    "lastModifiedDate": 1655391395138,
+    "dueDate": 1655901945065,
+    "state": "Archive"
+  },
+  "99466b50-3b40-4ac1-bd0b-7ce4073c2085": {
+    "id": "99466b50-3b40-4ac1-bd0b-7ce4073c2085",
+    "text": "Shoe shwaps lake\nKaren had cancer but is still alive and on the up. Karen’s mom died though. \nReid is living in a van on Vancouver island / is homeless. He’s teaching ESL part time and driving a school bus part time\nJim and Diane considering switching to the meal plan. \nDave and tiff and fam going to Italy for 3 weeks. \nTiffs 50th yesterday. \nCarson’s got a girlfriend Cassidy who everyone likes. Elizabeth sucked. She was soooo needy\nDelaney finished high school, taking a year off. Looper. No bf. \nEmily is a receptionist for Ferrari. Has an apartment in Vancouver close Granville island. \nCarol lives near border of delta and surrey. She’s gonna retire this year. \nPam’s show is called kinky boots.\nWalker has a brother who isn’t all there. Had head injury young and head to relearn everything. He’s a bit of a hoarder. Walker doesn’t like him much. \n\n",
+    "interval": 2.360405637281263,
+    "createdDate": 1654408011802,
+    "lastModifiedDate": 1654797254746,
+    "dueDate": 1654883654746,
+    "state": "Archive"
+  },
+  "a960b10d-fdf1-4fd8-95e9-7420638fd9ee": {
+    "id": "a960b10d-fdf1-4fd8-95e9-7420638fd9ee",
+    "text": "Drew and Marion got a new boat. Getting detailed. Live in Chiliwake. Renting a RV in shoe shwaps. ",
+    "interval": 2.176497475970566,
+    "createdDate": 1654408253736,
+    "lastModifiedDate": 1654797251279,
+    "dueDate": 1654883651279,
+    "state": "Archive"
+  },
+  "71f4afb5-578f-4b20-a5d2-fa87a0fc384b": {
+    "id": "71f4afb5-578f-4b20-a5d2-fa87a0fc384b",
+    "text": "Tim and Carol used to live in Coquitlam",
+    "interval": 2.4290805676130742,
+    "createdDate": 1654409216217,
+    "lastModifiedDate": 1654797111079,
+    "dueDate": 1654883511079,
+    "state": "Archive"
+  },
+  "da5240ae-2785-48ee-b43f-6bf114b8d46e": {
+    "id": "da5240ae-2785-48ee-b43f-6bf114b8d46e",
+    "text": "Crescent beach is where we spread my moms ashes",
+    "interval": 1,
+    "createdDate": 1654409237070,
+    "lastModifiedDate": 1654409237070,
+    "dueDate": 1654409237070,
+    "state": "Archive"
+  },
+  "18169889-63ad-4242-af48-2d4e82c63f07": {
+    "id": "18169889-63ad-4242-af48-2d4e82c63f07",
+    "text": "And crescent beach is where hubba used to live?",
+    "interval": 2.1259470236325564,
+    "createdDate": 1654409262940,
+    "lastModifiedDate": 1654797103145,
+    "dueDate": 1654883503145,
+    "state": "Archive"
+  },
+  "65ceb819-dcdf-41b0-9293-be3e003f9e89": {
+    "id": "65ceb819-dcdf-41b0-9293-be3e003f9e89",
+    "text": "Walker is retired",
+    "interval": 2.3275841856484503,
+    "createdDate": 1654445165426,
+    "lastModifiedDate": 1654797094345,
+    "dueDate": 1654883494345,
+    "state": "Archive"
+  },
+  "83b799e8-e5ee-43e2-8c47-c1964ae13076": {
+    "id": "83b799e8-e5ee-43e2-8c47-c1964ae13076",
+    "text": "Ralph has 5 sons ",
+    "interval": 2.4234598084998327,
+    "createdDate": 1654445572859,
+    "lastModifiedDate": 1654797052729,
+    "dueDate": 1654883452729,
+    "state": "Archive"
+  },
+  "5f3f0449-a4b6-4621-8a2e-dea772e26fa4": {
+    "id": "5f3f0449-a4b6-4621-8a2e-dea772e26fa4",
+    "text": "Book convo with Ray",
+    "interval": 2.181540318891138,
+    "createdDate": 1654473056490,
+    "lastModifiedDate": 1654796940176,
+    "dueDate": 1654883340176,
+    "state": "Archive"
+  },
+  "24d40e37-43f1-4fe4-8a23-58de7c2994d7": {
+    "id": "24d40e37-43f1-4fe4-8a23-58de7c2994d7",
+    "text": "Book ferry to Victoria",
+    "interval": 1,
+    "createdDate": 1654473068563,
+    "lastModifiedDate": 1654473068563,
+    "dueDate": 1654473068563,
+    "state": "Archive"
+  },
+  "deb54b3e-71e9-4d67-bf83-29579b0ad295": {
+    "id": "deb54b3e-71e9-4d67-bf83-29579b0ad295",
+    "text": "Bill and jerry are Ralph’s friends ",
+    "interval": 1,
+    "createdDate": 1654533659935,
+    "lastModifiedDate": 1654533659935,
+    "dueDate": 1654533659935,
+    "state": "Archive"
+  },
+  "203ce80d-1a45-4df4-b137-06354d00538c": {
+    "id": "203ce80d-1a45-4df4-b137-06354d00538c",
+    "text": "It is a good intellectual exercise to create an intuitive diagram to communicate new ideas in a compact, succinct way. Edward Tufte has written the same book several times on the topic, which is a must read for anyone who wants to learn how to effectively communicate knowledge.",
+    "interval": 55.08181755235226,
+    "createdDate": 1654650836099,
+    "lastModifiedDate": 1656683617171,
+    "dueDate": 1658860412145,
+    "state": "Active"
+  },
+  "eabcc703-d76e-42fd-9994-7faf39713657": {
+    "id": "eabcc703-d76e-42fd-9994-7faf39713657",
+    "text": "Pre-hike todos:\nLook up conditions (is it hikable this time of year)\nDownload map\nAll trails app has comments and conditions ",
+    "interval": 1,
+    "createdDate": 1654722437229,
+    "lastModifiedDate": 1654722437229,
+    "dueDate": 1654722437229,
+    "state": "Archive"
+  },
+  "9fa22dd1-440c-427d-9bb1-118c7ca2c854": {
+    "id": "9fa22dd1-440c-427d-9bb1-118c7ca2c854",
+    "text": "[[LLM]]s aren't great at automatically generating flashcards from source material, but they may be good at generating plain english flashcards from structured data e.g. take the relation `Taylor -(has brother)→ Bryce` and have the LLM generate a prompt for Bryce like `Taylor has a brother, what's his name?`",
+    "interval": 67.82473635962725,
+    "createdDate": 1654738213095,
+    "lastModifiedDate": 1657024038490,
+    "dueDate": 1659389550569,
+    "state": "Active"
+  },
+  "994d7a48-e7f0-450c-8339-f1ff197f7528": {
+    "id": "994d7a48-e7f0-450c-8339-f1ff197f7528",
+    "text": "These notes should be markdown",
+    "interval": 67.02502353384432,
+    "createdDate": 1654738231360,
+    "lastModifiedDate": 1657024067722,
+    "dueDate": 1659396360766,
+    "state": "Active"
+  },
+  "f4257f73-c47a-44d0-9b10-0a80eadc2552": {
+    "id": "f4257f73-c47a-44d0-9b10-0a80eadc2552",
+    "text": "Wrote a note in Roam about LLMs and flashcards, and then copy pasted into qc. I like having things in Roam but I also like how they come around in here",
+    "interval": 28.70872054406614,
+    "createdDate": 1654738298045,
+    "lastModifiedDate": 1655901649380,
+    "dueDate": 1656910979921,
+    "state": "Archive"
+  },
+  "883d2d9c-6fe9-42cd-8441-2d3737fdc412": {
+    "id": "883d2d9c-6fe9-42cd-8441-2d3737fdc412",
+    "text": "Really want dynamic flashcards",
+    "interval": 57.332489576086694,
+    "createdDate": 1654738441912,
+    "lastModifiedDate": 1656941348807,
+    "dueDate": 1658950595855,
+    "state": "Active"
+  },
+  "3c578ffd-453b-4b0c-b314-f14a3f333b47": {
+    "id": "3c578ffd-453b-4b0c-b314-f14a3f333b47",
+    "text": "To-watch: coachroach hotel",
+    "interval": 1,
+    "createdDate": 1654747392202,
+    "lastModifiedDate": 1654747392202,
+    "dueDate": 1654747392202,
+    "state": "Archive"
+  },
+  "9387b1f2-6ab4-4a14-a29f-a3b43f9093c3": {
+    "id": "9387b1f2-6ab4-4a14-a29f-a3b43f9093c3",
+    "text": "https://twitter.com/MIRIBerkeley/status/1533995812526600192\nEliezer agi risk\n",
+    "interval": 12.555805104349167,
+    "createdDate": 1654751324310,
+    "lastModifiedDate": 1655391486396,
+    "dueDate": 1655888362402,
+    "state": "Archive"
+  },
+  "550927ed-fcde-4039-bee1-0a6ccfb76885": {
+    "id": "550927ed-fcde-4039-bee1-0a6ccfb76885",
+    "text": "https://twitter.com/nickcammarata/status/1535709280569110529?s=12&t=wtcSkSx_eeouvMuIk0u_3A",
+    "interval": 55.63629336991036,
+    "createdDate": 1654977518662,
+    "lastModifiedDate": 1656941248779,
+    "dueDate": 1658902444529,
+    "state": "Active"
+  },
+  "b6ecc3d9-254e-46e8-94f7-0660676a6215": {
+    "id": "b6ecc3d9-254e-46e8-94f7-0660676a6215",
+    "text": "Robin Hanson: Alien Civilizations, UFOs, and the Future of Humanity | Lex Fridman Podcast #292\n- Read textbooks\n- \"Our preferences and motivations are a mess cobbled together by evolution. They're fixed. We're often conflicted, unmotivated, etc and we don't know why.\" This feels right to me but also not the whole picture. There also feels like an open ended part which we can change. So maybe it's a mixture?  ",
+    "interval": 68.38280556388364,
+    "createdDate": 1655095756368,
+    "lastModifiedDate": 1657583035699,
+    "dueDate": 1659980869055,
+    "state": "Active"
+  },
+  "62e702ab-3f66-4321-a8bb-8c290cf49783": {
+    "id": "62e702ab-3f66-4321-a8bb-8c290cf49783",
+    "text": "also robin hanson: life is long, and you have time. you don't need to be in a rush. if you work consistently over a long period of time, you can make significant progress on most things",
+    "interval": 55.43034958618017,
+    "createdDate": 1655098251215,
+    "lastModifiedDate": 1656941373605,
+    "dueDate": 1658954933134,
+    "state": "Active"
+  },
+  "aa032e88-eedf-4041-8333-eb399430c79b": {
+    "id": "aa032e88-eedf-4041-8333-eb399430c79b",
+    "text": "https://braid.org/",
+    "interval": 56.17963564376462,
+    "createdDate": 1655148320854,
+    "lastModifiedDate": 1657281415973,
+    "dueDate": 1659285656061,
+    "state": "Active"
+  },
+  "a2fa05e8-d555-4692-893c-3bb39293c507": {
+    "id": "a2fa05e8-d555-4692-893c-3bb39293c507",
+    "text": "Free range kids. \nTaking children seriously ",
+    "interval": 13.161666609330357,
+    "createdDate": 1655154234727,
+    "lastModifiedDate": 1655729489885,
+    "dueDate": 1656227565558,
+    "state": "Archive"
+  },
+  "f95f7dfb-51f4-4aa1-bfdb-de67190d8f56": {
+    "id": "f95f7dfb-51f4-4aa1-bfdb-de67190d8f56",
+    "text": "Bolo tie for Emily’s bday ",
+    "interval": 1,
+    "createdDate": 1655176117129,
+    "lastModifiedDate": 1655176117129,
+    "dueDate": 1655176117129,
+    "state": "Archive"
+  },
+  "0101d12a-39bd-4826-aa4b-88c58a304727": {
+    "id": "0101d12a-39bd-4826-aa4b-88c58a304727",
+    "text": "Wear bolo tie Wednesday ",
+    "interval": 1,
+    "createdDate": 1655176168973,
+    "lastModifiedDate": 1655176168973,
+    "dueDate": 1655176168973,
+    "state": "Archive"
+  },
+  "604c71a4-dcb0-4ad5-8420-601c3810c1a2": {
+    "id": "604c71a4-dcb0-4ad5-8420-601c3810c1a2",
+    "text": "Focus on sending resumes / networking first. They may take a while to turn around ",
+    "interval": 1,
+    "createdDate": 1655178076983,
+    "lastModifiedDate": 1655178076983,
+    "dueDate": 1655178076983,
+    "state": "Archive"
+  },
+  "18eb2891-7774-4ba1-af29-11637f1c8d1f": {
+    "id": "18eb2891-7774-4ba1-af29-11637f1c8d1f",
+    "text": "Timestamped Google timeline. Timestamped event descriptions (which often but not always align with the map events). Timestamped photos. Query / pivot the dataset to get a blogpost of the trip",
+    "interval": 65.95031543946324,
+    "createdDate": 1655178724386,
+    "lastModifiedDate": 1657583029837,
+    "dueDate": 1659868434326,
+    "state": "Active"
+  },
+  "1e9a6243-2ba9-4cb7-a63c-6d876dd9e1dd": {
+    "id": "1e9a6243-2ba9-4cb7-a63c-6d876dd9e1dd",
+    "text": "Courtney didn’t have co poisoning. Locked out of apartment. New clubs\nKitts was just in town for toots moms celebration of life. Katie. Butler. Bart. ",
+    "interval": 1,
+    "createdDate": 1655178850185,
+    "lastModifiedDate": 1655178850185,
+    "dueDate": 1655178850185,
+    "state": "Archive"
+  },
+  "c316d357-7b51-4645-a81d-5985090ad8ac": {
+    "id": "c316d357-7b51-4645-a81d-5985090ad8ac",
+    "text": "Update resume. Maybe “learning sabbatical”. Mention all full stack developer. ",
+    "interval": 2.4101631101733267,
+    "createdDate": 1655213089280,
+    "lastModifiedDate": 1655219195156,
+    "dueDate": 1655305595156,
+    "state": "Archive"
+  },
+  "f701e0a5-a710-4556-b1da-2af73be033ad": {
+    "id": "f701e0a5-a710-4556-b1da-2af73be033ad",
+    "text": "want to upvote notes",
+    "interval": 75.77709306763965,
+    "createdDate": 1655219124645,
+    "lastModifiedDate": 1657582976281,
+    "dueDate": 1660254940025,
+    "state": "Active"
+  },
+  "dcbcb9b9-ca0b-4701-8ac9-a53f5204920c": {
+    "id": "dcbcb9b9-ca0b-4701-8ac9-a53f5204920c",
+    "text": "Reading about Core Transformations. Changing your motivation scheme which uses negative emotion to push you towards action. It proses just removing the negative-emotion-as-motivator completely, and that when you do so, it doesn’t remove your values or wants to take action, and you actually become more effective. \n\nI definitely feel trapped in that. I’ll often get stuck in loops where I “feel bad but can’t stop until I’ve done work X”. In this framework, fixing the feeling directly should be step one. After that work on X will be much easier (or you may realize you should work on Y). \n\nThis feels connected to the talk about working at Tesla from earlier today. Musk is always working on the top bottleneck. Once is fixed, he jumps to the next one. He singularly focuses on the bottlenecks. \n\nThat’s easy to say, but I find in practice it’s difficult in one’s life to identify what the bottlenecks are. But for me, maybe it’s this negative motivation scheme is it? Maybe focusing / CT is the solution? Quitting my job didn’t reduce the negative feelings as much as I would’ve hoped. Now I was just getting them from self-imposed goals and judgements instead of externally. ",
+    "interval": 58.30619291732513,
+    "createdDate": 1655234801304,
+    "lastModifiedDate": 1656941276497,
+    "dueDate": 1659148652563,
+    "state": "Active"
+  },
+  "b7bcde6d-aa72-4fb5-a667-7fc50e900b09": {
+    "id": "b7bcde6d-aa72-4fb5-a667-7fc50e900b09",
+    "text": "A pattern: I forget something. I wish I hadn’t / didn’t. I feel bad for having forgotten / not having built systems to avoid situations like this. Feel I need to work harder to fix things so I don’t end up feeling bad again. Know that I’m not gonna remember to stay resolved to fix it. Bad feels intensify. Fixing problem now feels even more important. Bad feels intensify again. Etc ",
+    "interval": 73.64788339827173,
+    "createdDate": 1655237247945,
+    "lastModifiedDate": 1656941203751,
+    "dueDate": 1659519831271,
+    "state": "Active"
+  },
+  "921a0c4c-c106-465f-b615-071c7650a325": {
+    "id": "921a0c4c-c106-465f-b615-071c7650a325",
+    "text": "Want to notice mistakes and resolve to improve but without the feedback of loop of bad feels",
+    "interval": 52.02941590788222,
+    "createdDate": 1655237366488,
+    "lastModifiedDate": 1656941254473,
+    "dueDate": 1658984475744,
+    "state": "Active"
+  },
+  "f17a01f1-90ca-4cbe-bd08-ab558b889afd": {
+    "id": "f17a01f1-90ca-4cbe-bd08-ab558b889afd",
+    "text": "What are some job-hunt things that seem more fun? Maybe reach out to people in and around Toronto who I think are cool and whom I’m looking advice on job search. I have a list of people like that somewhere. eg Maggie Appleton, remnote guy, bardia from replit, ??\n\nQuestions to ask\nWhere did you find the jobs? Or where were you looking?\nWhat were your criteria? What drew you to those jobs?\nAny companies / areas you’re interested in right now? Or would go to if you weren’t doing what you’re doing?",
+    "interval": 23.801608101150073,
+    "createdDate": 1655311446262,
+    "lastModifiedDate": 1656079123186,
+    "dueDate": 1656951486230,
+    "state": "Archive"
+  },
+  "0553b988-139d-415a-a530-f6a373ddc5db": {
+    "id": "0553b988-139d-415a-a530-f6a373ddc5db",
+    "text": "I’m feeling pressure to get a job. I’m getting close to the amount of time and money I said I’d allocate. But I feel myself rushing for simple solutions: firing off lots of resumes, applying to big cos. I didn’t stop the networking-first approach because I didn’t think it’d work. I stopped to focus on my portfolio and interview skills. Now that those are passable, I should mainly go back to the networking-first approach. Talk to people who are into the same things I am, and ideally in the same area, and see where that leads me. ",
+    "interval": 75.57925679057304,
+    "createdDate": 1655311677945,
+    "lastModifiedDate": 1657582930885,
+    "dueDate": 1660313929767,
+    "state": "Active"
+  },
+  "609a4763-5ab4-4199-b059-239846e0a78f": {
+    "id": "609a4763-5ab4-4199-b059-239846e0a78f",
+    "text": "Deadwood",
+    "interval": 59.7123991440069,
+    "createdDate": 1655322884680,
+    "lastModifiedDate": 1657583037146,
+    "dueDate": 1659855005385,
+    "state": "Active"
+  },
+  "11c952bb-4cb0-4958-bd51-e0341cfbba47": {
+    "id": "11c952bb-4cb0-4958-bd51-e0341cfbba47",
+    "text": "deploy roam api. create web page which pulls today's sketch of the future and displays it",
+    "interval": 55.6779530194088,
+    "createdDate": 1655329421838,
+    "lastModifiedDate": 1657583022213,
+    "dueDate": 1659806655910,
+    "state": "Active"
+  },
+  "ac9c9d75-23b8-4b38-a54b-6c1a0c48259a": {
+    "id": "ac9c9d75-23b8-4b38-a54b-6c1a0c48259a",
+    "text": "Thinking of ways of easing into the day. Or doing something enjoyable that gets me up and going. Something I want to do. \n\nPodcasts kind of work, but I find they suck me in. Once I’m listening, I want to keep listening, which means I either don’t start working or start working on very low-cognitive tasks. \n\nWhat about jotting some things down in my notebook? No need to even get out of bed. Just jot some bits or read some bits. I don’t think these pull me in in the same way as podcasts. Or if they do, they pull me into writing, which is a good way to start the day. \n\nIf I had an RSS feed or something which I wanted to read but didn’t have the same trapping behaviour as twitter, that may be good. \n\nWhat if I walk out and buy some delicious food and coffee? I feel like I tried that once and it didn’t motivate me. \n\n",
+    "interval": 50.591236974906664,
+    "createdDate": 1655333120956,
+    "lastModifiedDate": 1656941235862,
+    "dueDate": 1658780223456,
+    "state": "Active"
+  },
+  "c07de8df-97d6-4d79-bac6-beb3a9a98119": {
+    "id": "c07de8df-97d6-4d79-bac6-beb3a9a98119",
+    "text": "Feeling in the stomach. Upset? Uneasy? Something like that. Came about while tweeting just now. Got the word “conflicted” when doing some Focusing on it. I use that word a lot when explaining things though, so don’t know how much to believe it’s a good fit. But yeah I guess I’m often conflicted when reading twitter between the part that wants to doom scroll and the part that thinks it’s bad",
+    "interval": 74.27725656581849,
+    "createdDate": 1655333482706,
+    "lastModifiedDate": 1657582999316,
+    "dueDate": 1660286813667,
+    "state": "Active"
+  },
+  "15e0f0ee-1cba-4de8-aa5b-f4d7094c5961": {
+    "id": "15e0f0ee-1cba-4de8-aa5b-f4d7094c5961",
+    "text": "On the Criteria To Be Used in Decomposing Systems into Modules",
+    "interval": 66.5794505324374,
+    "createdDate": 1655388492485,
+    "lastModifiedDate": 1657583001516,
+    "dueDate": 1660089107082,
+    "state": "Active"
+  },
+  "0ec768c8-f2af-4312-a37e-2a70aa830696": {
+    "id": "0ec768c8-f2af-4312-a37e-2a70aa830696",
+    "text": "Just checked twitter as a \"break\", but now that I'm done that, I now feel I need a break from that lol. I'm guessing it's my body which needs a break from all this sitting and heat",
+    "interval": 56.55156643018721,
+    "createdDate": 1655409297956,
+    "lastModifiedDate": 1657583046362,
+    "dueDate": 1659715535754,
+    "state": "Active"
+  },
+  "0b88b012-c3f2-4bf9-b6ba-f30d96638bda": {
+    "id": "0b88b012-c3f2-4bf9-b6ba-f30d96638bda",
+    "text": "Fix dry eyes",
+    "interval": 23.471763419760588,
+    "createdDate": 1655411371811,
+    "lastModifiedDate": 1656333988418,
+    "dueDate": 1657345545555,
+    "state": "Active"
+  },
+  "e2af9ba0-1206-4410-8ace-8df9a405fa80": {
+    "id": "e2af9ba0-1206-4410-8ace-8df9a405fa80",
+    "text": "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
+    "interval": 69.19494259327001,
+    "createdDate": 1655412009289,
+    "lastModifiedDate": 1657582974553,
+    "dueDate": 1660392589071,
+    "state": "Active"
+  },
+  "e05d2983-e231-44e7-99ea-46c52d8275a8": {
+    "id": "e05d2983-e231-44e7-99ea-46c52d8275a8",
+    "text": "someday/maybe bring back [[My morning writing practice]]",
+    "interval": 51.864269065366734,
+    "createdDate": 1655416182542,
+    "lastModifiedDate": 1657281395873,
+    "dueDate": 1659253933242,
+    "state": "Active"
+  },
+  "aefd474d-d8e4-4026-9a39-a36cfa9efd1a": {
+    "id": "aefd474d-d8e4-4026-9a39-a36cfa9efd1a",
+    "text": "Standing roamjs query for edited blocks/pages \nhttps://twitter.com/roam_js/status/1537608456085164033?s=21&t=x5g4tSrkmCAsNxlCEZEN-A",
+    "interval": 60.66632327960298,
+    "createdDate": 1655431947468,
+    "lastModifiedDate": 1657200435096,
+    "dueDate": 1659302740539,
+    "state": "Active"
+  },
+  "2947aac4-e8bc-4c33-82b6-c6801f4970bf": {
+    "id": "2947aac4-e8bc-4c33-82b6-c6801f4970bf",
+    "text": "The goal is to get up early. I didn’t say anything about what I need to do. So twitter is ok for now. Whatever gets me up is good",
+    "interval": 63.873801438092954,
+    "createdDate": 1655466738474,
+    "lastModifiedDate": 1657281357802,
+    "dueDate": 1659650277759,
+    "state": "Active"
+  },
+  "2e6b6808-e2b5-4315-ba67-a43c1fa8f494": {
+    "id": "2e6b6808-e2b5-4315-ba67-a43c1fa8f494",
+    "text": "https://twitter.com/johannesmutter/status/1537722644400947200?s=21&t=AdhaUfrnAKGVSRYhFL9INA\nLinks should be outside the file ref",
+    "interval": 54.6909430484717,
+    "createdDate": 1655466820177,
+    "lastModifiedDate": 1657200417382,
+    "dueDate": 1659159846554,
+    "state": "Active"
+  },
+  "e736c3bc-9890-4682-b863-123c1c32f8e4": {
+    "id": "e736c3bc-9890-4682-b863-123c1c32f8e4",
+    "text": "Who painted the last supper?\nLeonardo da Vinci\nand the Mona Lisa \nWho painted the starry night?\nVincent van Gogh\nWhich artist cut off their ear?\nVincent can Gogh",
+    "interval": 1,
+    "createdDate": 1655467283740,
+    "lastModifiedDate": 1655467283740,
+    "dueDate": 1655467283740,
+    "state": "Archive"
+  },
+  "1044d905-83c8-4e6e-9fa2-2d605fbaa2a0": {
+    "id": "1044d905-83c8-4e6e-9fa2-2d605fbaa2a0",
+    "text": "Who painted that photo I like?\nLawrence Paul Yuxweluptun",
+    "interval": 1,
+    "createdDate": 1655467596407,
+    "lastModifiedDate": 1655467596407,
+    "dueDate": 1655467596407,
+    "state": "Archive"
+  },
+  "715a2c94-65ed-4de7-a9d7-69fd570ca51b": {
+    "id": "715a2c94-65ed-4de7-a9d7-69fd570ca51b",
+    "text": "pull out the roam path module and share as a separate thing",
+    "interval": 60.200384928363015,
+    "createdDate": 1655468197097,
+    "lastModifiedDate": 1657583003649,
+    "dueDate": 1660144879504,
+    "state": "Active"
+  },
+  "9b4ce28f-d095-463c-97b6-8d57245b493b": {
+    "id": "9b4ce28f-d095-463c-97b6-8d57245b493b",
+    "text": "Interfaces on blocks and pages. Defined on read, not on write. If ask what interface a block implements, you loop through all the interfaces defined in your system, push the block uid as input (it probably uses the blocks string / props to decide). Once you know there interface, you can be promoted with the methods supported by that interface ",
+    "interval": 60.59760213390549,
+    "createdDate": 1655477005029,
+    "lastModifiedDate": 1657200424214,
+    "dueDate": 1659397007439,
+    "state": "Active"
+  },
+  "7e3fb223-454c-4b3f-ac4a-e1421dc546cd": {
+    "id": "7e3fb223-454c-4b3f-ac4a-e1421dc546cd",
+    "text": "Software to improve your life. But lots of software that says that presents you with a new set of probers, which is fine and unavoidable, but the software is static, unmodifiable so you have no ability to improve your conditions within it. It’s like a mini static society. The only way to improve it is to make a new one. That’s no bueno",
+    "interval": 62.17069615476501,
+    "createdDate": 1655484713452,
+    "lastModifiedDate": 1657281412000,
+    "dueDate": 1659580855339,
+    "state": "Active"
+  },
+  "96bc21a3-0659-467f-8ef4-19b7b9b15c96": {
+    "id": "96bc21a3-0659-467f-8ef4-19b7b9b15c96",
+    "text": "Deep mind aims to completely model a cell, then give that to scientists so they have a waaaay faster way to poke and prod at a cell to learn and explain how it works",
+    "interval": 66.44553478103921,
+    "createdDate": 1655484857303,
+    "lastModifiedDate": 1657583042411,
+    "dueDate": 1660013880125,
+    "state": "Active"
+  },
+  "24908653-b191-4382-93ef-d11ccd9775ab": {
+    "id": "24908653-b191-4382-93ef-d11ccd9775ab",
+    "text": "Is there a camera device you can connect to your phone & stream video to it? + control with your phone? Want for gymnastics.",
+    "interval": 57.32801518995119,
+    "createdDate": 1655503897485,
+    "lastModifiedDate": 1657583017287,
+    "dueDate": 1659724285717,
+    "state": "Active"
+  },
+  "f5698da1-4186-433a-a98b-8ea5c7fc99fc": {
+    "id": "f5698da1-4186-433a-a98b-8ea5c7fc99fc",
+    "text": "Look at progressive web app design and how they achieve a good local-first requirement",
+    "interval": 72.21557584381529,
+    "createdDate": 1655503964609,
+    "lastModifiedDate": 1657582970702,
+    "dueDate": 1660122317842,
+    "state": "Active"
+  },
+  "fcdb4329-47b4-4568-96a2-af8d89ca12e5": {
+    "id": "fcdb4329-47b4-4568-96a2-af8d89ca12e5",
+    "text": "pull out the roam path module and share as a separate thing",
+    "interval": 1,
+    "createdDate": 1655506099887,
+    "lastModifiedDate": 1655506099887,
+    "dueDate": 1655506099887,
+    "state": "Archive"
+  },
+  "e760a2c1-2a30-4538-81b5-712de85687ac": {
+    "id": "e760a2c1-2a30-4538-81b5-712de85687ac",
+    "text": "https://lifehacky.net/how-to-list-namespaces-and-find-more-in-roam-research-5c25d9f24556",
+    "interval": 55.57274854583337,
+    "createdDate": 1655506154256,
+    "lastModifiedDate": 1657582920466,
+    "dueDate": 1659908199465,
+    "state": "Active"
+  },
+  "b9e97710-1c50-4edb-a214-5b5c2a1b911a": {
+    "id": "b9e97710-1c50-4edb-a214-5b5c2a1b911a",
+    "text": "Similarity between Items by Alexander guy and Blocks by Hash. \n\nWant to block interface to individual gmail messages so I can’t send them to and interact with them from another app",
+    "interval": 52.3939085908162,
+    "createdDate": 1655561060168,
+    "lastModifiedDate": 1657583010073,
+    "dueDate": 1659744198807,
+    "state": "Active"
+  },
+  "a69ad8fd-7453-41ed-bfb3-cef4ce57054a": {
+    "id": "a69ad8fd-7453-41ed-bfb3-cef4ce57054a",
+    "text": "Hugo boss. Ramone ",
+    "interval": 11.3287621040589,
+    "createdDate": 1655574095440,
+    "lastModifiedDate": 1655992125401,
+    "dueDate": 1656426801467,
+    "state": "Archive"
+  },
+  "a9f88c20-9adb-48b0-9602-15691f9ca4b7": {
+    "id": "a9f88c20-9adb-48b0-9602-15691f9ca4b7",
+    "text": "36 short double slim. 750",
+    "interval": 14.310950357124803,
+    "createdDate": 1655574130924,
+    "lastModifiedDate": 1655992079931,
+    "dueDate": 1656494905974,
+    "state": "Archive"
+  },
+  "355191a8-7fc1-4674-9c2c-fb642a7a0c66": {
+    "id": "355191a8-7fc1-4674-9c2c-fb642a7a0c66",
+    "text": "Richard. Harry Rosen. 36S fit best",
+    "interval": 12.3385187471332,
+    "createdDate": 1655575758325,
+    "lastModifiedDate": 1655992088034,
+    "dueDate": 1656490206894,
+    "state": "Archive"
+  },
+  "8cb147c0-ec03-4e9d-8bb6-6237c421b0f8": {
+    "id": "8cb147c0-ec03-4e9d-8bb6-6237c421b0f8",
+    "text": "At Harry Rosen, the 36S was the best fit (I have picture of tag) but they only had blue. The store at First Canadian place has one of that size though ",
+    "interval": 12.50853918456118,
+    "createdDate": 1655576114820,
+    "lastModifiedDate": 1655992088863,
+    "dueDate": 1656444393225,
+    "state": "Archive"
+  },
+  "c2f3c5eb-7a89-4c94-b0b0-6e114a53f9fa": {
+    "id": "c2f3c5eb-7a89-4c94-b0b0-6e114a53f9fa",
+    "text": "https://twitter.com/pchiusano/status/1538230157030326272?s=12&t=58xbDbv_qXPk3MajfwyZ6A\nCRDT for beginners",
+    "interval": 54.074704420283304,
+    "createdDate": 1655583277603,
+    "lastModifiedDate": 1657582973915,
+    "dueDate": 1659888572252,
+    "state": "Active"
+  },
+  "11f0f846-a21b-412d-a8fb-0ae026af4466": {
+    "id": "11f0f846-a21b-412d-a8fb-0ae026af4466",
+    "text": "Go visit nick and Taylor ",
+    "interval": 49.520044989812455,
+    "createdDate": 1655662810957,
+    "lastModifiedDate": 1657110207422,
+    "dueDate": 1659061105318,
+    "state": "Active"
+  },
+  "4749638f-f725-4016-955d-34c96678b249": {
+    "id": "4749638f-f725-4016-955d-34c96678b249",
+    "text": "Planet city. Short film with Courtney’s costume that’s in a museum. Worked with Ann",
+    "interval": 11.57457495500742,
+    "createdDate": 1655667637479,
+    "lastModifiedDate": 1655992133947,
+    "dueDate": 1656395752045,
+    "state": "Archive"
+  },
+  "005256cb-d4c1-4b61-8aec-e8c9420ded6c": {
+    "id": "005256cb-d4c1-4b61-8aec-e8c9420ded6c",
+    "text": "Fuzzy querying ",
+    "interval": 54.98078648780826,
+    "createdDate": 1655669330679,
+    "lastModifiedDate": 1657583010489,
+    "dueDate": 1659750853364,
+    "state": "Active"
+  },
+  "61d06da1-d0b3-46b8-9413-1b71efac470e": {
+    "id": "61d06da1-d0b3-46b8-9413-1b71efac470e",
+    "text": "Tina’s shoulder injury was from a bike hitting her. Conrad and her have a lot of weddings and shows this summer so they’re pretty busy. Also going to Paris",
+    "interval": 2.0478035206361755,
+    "createdDate": 1655682374075,
+    "lastModifiedDate": 1655729215492,
+    "dueDate": 1655815615492,
+    "state": "Archive"
+  },
+  "47e01cf6-34b5-4f57-83a1-9e81441c3b95": {
+    "id": "47e01cf6-34b5-4f57-83a1-9e81441c3b95",
+    "text": "Want to build tools, interfaces, apps, not big backends. Want to make it easier for individuals to be able to do that for themselves, without needing to bother with a lot of cloud / dev ops / etc and while still being able to inter operate with the mainstream systems",
+    "interval": 60.228314744010866,
+    "createdDate": 1655683661331,
+    "lastModifiedDate": 1657583008669,
+    "dueDate": 1660044680621,
+    "state": "Active"
+  },
+  "8fd67a2f-d31a-49b2-8793-234ef9d278f8": {
+    "id": "8fd67a2f-d31a-49b2-8793-234ef9d278f8",
+    "text": "Hubba is a nickname for my great grandpa ",
+    "interval": 2.2007928947746045,
+    "createdDate": 1655685900325,
+    "lastModifiedDate": 1655729161321,
+    "dueDate": 1655815561321,
+    "state": "Archive"
+  },
+  "7caeed35-7acf-4e5c-9173-d2257839dccc": {
+    "id": "7caeed35-7acf-4e5c-9173-d2257839dccc",
+    "text": "I made a commitment to get up at 7:30. Doesn’t matter if I went to so late I’m gonna ruin the day. Stick to the commitment, and learn from the mistake of staying up late",
+    "interval": 46.39473409085747,
+    "createdDate": 1655726169385,
+    "lastModifiedDate": 1657281386453,
+    "dueDate": 1659100256706,
+    "state": "Active"
+  },
+  "32227743-ceae-4964-95e6-d41e93c79699": {
+    "id": "32227743-ceae-4964-95e6-d41e93c79699",
+    "text": "Emma's bf is Liam. Raoul's gf is Yanna",
+    "interval": 1,
+    "createdDate": 1655727031468,
+    "lastModifiedDate": 1655727031468,
+    "dueDate": 1655727031468,
+    "state": "Archive"
+  },
+  "5779d38a-8780-40bc-b0ca-20dff5630b0b": {
+    "id": "5779d38a-8780-40bc-b0ca-20dff5630b0b",
+    "text": "I forgot about this! [[Date night ideas with Emily]]",
+    "interval": 57.95705421249364,
+    "createdDate": 1655734598042,
+    "lastModifiedDate": 1657583037426,
+    "dueDate": 1659738752797,
+    "state": "Active"
+  },
+  "2f54686c-8a49-41cb-9324-4793d71c4196": {
+    "id": "2f54686c-8a49-41cb-9324-4793d71c4196",
+    "text": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/",
+    "interval": 57.206200248005594,
+    "createdDate": 1655734664298,
+    "lastModifiedDate": 1657582967498,
+    "dueDate": 1659882762751,
+    "state": "Active"
+  },
+  "6ff4e851-db5a-41c6-9116-ff1161d2f0b0": {
+    "id": "6ff4e851-db5a-41c6-9116-ff1161d2f0b0",
+    "text": "Find Friday free to see Simon ",
+    "interval": 26.553627236862294,
+    "createdDate": 1655768348562,
+    "lastModifiedDate": 1656505154757,
+    "dueDate": 1657587025440,
+    "state": "Archive"
+  },
+  "a44685c0-2bd4-44f0-8aed-fe12f5822cd0": {
+    "id": "a44685c0-2bd4-44f0-8aed-fe12f5822cd0",
+    "text": "Finished cooking and cleaning",
+    "interval": 1,
+    "createdDate": 1655771587357,
+    "lastModifiedDate": 1655771587357,
+    "dueDate": 1655771587357,
+    "state": "Archive"
+  },
+  "72c69526-5a0d-4752-9731-a927417bf491": {
+    "id": "72c69526-5a0d-4752-9731-a927417bf491",
+    "text": "Quickly reach out to people at the companies that Shelby connected me to. They’re low on my preference ordering, so I shouldn’t spend too much time on them. Then message the imp people on the list: Moritz, readwise guy, ??",
+    "interval": 2.1890153014912466,
+    "createdDate": 1655828426651,
+    "lastModifiedDate": 1655847178153,
+    "dueDate": 1655933578153,
+    "state": "Archive"
+  },
+  "2df62ba0-1a99-4996-b90c-1f70432f3e31": {
+    "id": "2df62ba0-1a99-4996-b90c-1f70432f3e31",
+    "text": "Do the expirySet problem. Also: what are arrays under the hood? Are they same or different than linked lists? How?",
+    "interval": 2.33193973641637,
+    "createdDate": 1655852357185,
+    "lastModifiedDate": 1655901666371,
+    "dueDate": 1655988066371,
+    "state": "Archive"
+  },
+  "e7d987f4-208c-41a8-b8c4-e15735f6966c": {
+    "id": "e7d987f4-208c-41a8-b8c4-e15735f6966c",
+    "text": "Can JavaScript object keys be anything you want? If not, can you create a hash of the object and use that as a key?",
+    "interval": 2.46040577051372,
+    "createdDate": 1655852625722,
+    "lastModifiedDate": 1655901666967,
+    "dueDate": 1655988066967,
+    "state": "Archive"
+  },
+  "ee5297df-a2cc-46a3-b99a-d3f82c3188a6": {
+    "id": "ee5297df-a2cc-46a3-b99a-d3f82c3188a6",
+    "text": "Maybe implement stuff like e.g. self-balancing trees from scratch. And doubly linked lists again. Want these to be suuuuuper easy for me.",
+    "interval": 2.1512545896539734,
+    "createdDate": 1655860436484,
+    "lastModifiedDate": 1655901660049,
+    "dueDate": 1655988060049,
+    "state": "Archive"
+  },
+  "d6e2d08a-9965-4b8b-8355-777ba94b2596": {
+    "id": "d6e2d08a-9965-4b8b-8355-777ba94b2596",
+    "text": "https://twitter.com/vgr/status/1539413614271967232?s=12&t=30R-iJXge7e8PIJWsRzUFQ",
+    "interval": 28.197745432535992,
+    "createdDate": 1655861913973,
+    "lastModifiedDate": 1656941325483,
+    "dueDate": 1657965217378,
+    "state": "Active"
+  },
+  "aa8aded5-fab1-4e06-b9d1-35882340ea49": {
+    "id": "aa8aded5-fab1-4e06-b9d1-35882340ea49",
+    "text": "I email to be the most reliable source of information about my past. Search is good, and many things I do include any incoming or ongoing email. \n\nRoam is for my internal thoughts. Messages to myself. What if I just did that in my email client too? Then my thinking becomes as-easily searchable ",
+    "interval": 31.573922590878155,
+    "createdDate": 1655913802079,
+    "lastModifiedDate": 1656941281563,
+    "dueDate": 1658037832829,
+    "state": "Active"
+  },
+  "3030b585-f094-43b1-96df-3e0ab5a321ae": {
+    "id": "3030b585-f094-43b1-96df-3e0ab5a321ae",
+    "text": "How do we pass on knowledge to our future self? \n- Compress it and propagate it through the mind, updating your feelings, intuitions, etc. \n- Save a snapshot of it. Images of yesterday. Snippets from a book. Etc\n- ???",
+    "interval": 22.634870924389023,
+    "createdDate": 1655914009563,
+    "lastModifiedDate": 1656941323018,
+    "dueDate": 1657853225168,
+    "state": "Active"
+  },
+  "252f54b9-75ef-4c64-ad4d-bb1798dc27e4": {
+    "id": "252f54b9-75ef-4c64-ad4d-bb1798dc27e4",
+    "text": "Want to be able to edit these notes ",
+    "interval": 21.450772289403417,
+    "createdDate": 1655914394903,
+    "lastModifiedDate": 1656941370048,
+    "dueDate": 1657847155025,
+    "state": "Active"
+  },
+  "503f7b5c-2ff3-4f24-a0d3-e03f30aea73b": {
+    "id": "503f7b5c-2ff3-4f24-a0d3-e03f30aea73b",
+    "text": "When querying the mind, it feels like a boots into RAM a bunch of content loosely related to what your looking for. These aren’t in conscious awareness, but you can feel them just within reach as your feeling around for the right answer",
+    "interval": 49.73670692274379,
+    "createdDate": 1655914527599,
+    "lastModifiedDate": 1657582956619,
+    "dueDate": 1659313834373,
+    "state": "Active"
+  },
+  "0fb9d9be-9306-4b89-ab36-9fd85cc069b3": {
+    "id": "0fb9d9be-9306-4b89-ab36-9fd85cc069b3",
+    "text": "App which has access to a bunch of your data. Has user friendly ways for viewing it. And let’s users arbitrarily query + make views based on those queries. I’m thinking of the memes all but Notion is kind this too and Roam",
+    "interval": 24.982547978368526,
+    "createdDate": 1655936197983,
+    "lastModifiedDate": 1656941343861,
+    "dueDate": 1657937904937,
+    "state": "Active"
+  },
+  "87e89603-3ea4-4ab4-8f7c-577ef623999a": {
+    "id": "87e89603-3ea4-4ab4-8f7c-577ef623999a",
+    "text": "For Roam: Path package. Json package (read page/block as json and write json). ??",
+    "interval": 24.18070210684899,
+    "createdDate": 1655936857401,
+    "lastModifiedDate": 1656683614879,
+    "dueDate": 1657599684904,
+    "state": "Active"
+  },
+  "d18a3c1f-dc3c-4360-a412-61579a0b2da3": {
+    "id": "d18a3c1f-dc3c-4360-a412-61579a0b2da3",
+    "text": "Roam package manager?",
+    "interval": 28.05168130628861,
+    "createdDate": 1655937177148,
+    "lastModifiedDate": 1656941374100,
+    "dueDate": 1657932788535,
+    "state": "Active"
+  },
+  "89979645-0724-42fc-adec-de88c1f147ff": {
+    "id": "89979645-0724-42fc-adec-de88c1f147ff",
+    "text": "https://twitter.com/reasonisfun/status/1539285785043685376?s=12&t=UlxRzhZpw3su1fOK8-Gt-A",
+    "interval": 25.94304518336654,
+    "createdDate": 1655954230443,
+    "lastModifiedDate": 1656941222929,
+    "dueDate": 1657892154943,
+    "state": "Active"
+  },
+  "f27eefcf-d689-49fb-b7b4-dece7fd9e797": {
+    "id": "f27eefcf-d689-49fb-b7b4-dece7fd9e797",
+    "text": "I think a central auth app could work but just not at the Nginx layer and would require a little bit of auth logic in each of the independent apps. (for now I wouldn’t go down that route though)",
+    "interval": 4.712054747976558,
+    "createdDate": 1656081905800,
+    "lastModifiedDate": 1656420693830,
+    "dueDate": 1656622648826,
+    "state": "Archive"
+  },
+  "a61a8fef-e9d8-4887-bf4a-b96e15a655d6": {
+    "id": "a61a8fef-e9d8-4887-bf4a-b96e15a655d6",
+    "text": "Talking things out like this does feel useful. At least the session of it. I’m not sure if it’s actually talking out loud. Could have maybe worked typing it out too. Typing can slow me down I guess though. Thoughts don’t quite flow the same way. The editor is too much in the loop. Trying to figure out the structure and working of the thought. \n\nBut yeah I was feel conflicted about working today. And rather than forcing myself into it - we’ll fist I avoid it it- but then sat and did this outward talking thinking thing. And I feel like I did resolve a bit of it. Like parts of me are in closer agreement now. I think it would be good to do this more. For all of me. Don’t put up with the conflictedness or coerce yourself through. Try to resolve it. At least somewhat. ",
+    "interval": 31.321628103998624,
+    "createdDate": 1656082251979,
+    "lastModifiedDate": 1657024044272,
+    "dueDate": 1658129127918,
+    "state": "Active"
+  },
+  "fb78b9fa-2957-40da-80b4-273d327967f2": {
+    "id": "fb78b9fa-2957-40da-80b4-273d327967f2",
+    "text": "Make it part of my retrospectives to add to my highlight reel. Things I did that look good on a resume. Probably like weekly and during project ensigns ",
+    "interval": 24.441672645087063,
+    "createdDate": 1656082873891,
+    "lastModifiedDate": 1657024076288,
+    "dueDate": 1657996501892,
+    "state": "Active"
+  },
+  "0e980540-404a-45f3-ac44-8fa68e1ff39c": {
+    "id": "0e980540-404a-45f3-ac44-8fa68e1ff39c",
+    "text": "Add shaving stuff to my packing list ",
+    "interval": 1,
+    "createdDate": 1656105696479,
+    "lastModifiedDate": 1656105696479,
+    "dueDate": 1656105696479,
+    "state": "Archive"
+  },
+  "0accf8b5-429f-4f8d-a0fb-729deff5990e": {
+    "id": "0accf8b5-429f-4f8d-a0fb-729deff5990e",
+    "text": "Lindsay’s in Spain til July 13",
+    "interval": 1,
+    "createdDate": 1656117978434,
+    "lastModifiedDate": 1656117978434,
+    "dueDate": 1656117978434,
+    "state": "Archive"
+  },
+  "5b6f1780-95b1-4ea3-9597-e37208558101": {
+    "id": "5b6f1780-95b1-4ea3-9597-e37208558101",
+    "text": "Robin is 1year old ",
+    "interval": 1,
+    "createdDate": 1656117984807,
+    "lastModifiedDate": 1656117984807,
+    "dueDate": 1656117984807,
+    "state": "Archive"
+  },
+  "fa0deff2-0970-49bc-a6a4-3f333cd55e30": {
+    "id": "fa0deff2-0970-49bc-a6a4-3f333cd55e30",
+    "text": "2 friends of Blake’s whose names I should know ",
+    "interval": 1,
+    "createdDate": 1656126006877,
+    "lastModifiedDate": 1656126006877,
+    "dueDate": 1656126006877,
+    "state": "Archive"
+  },
+  "ba5c72ed-59ec-4398-ad1d-b432c1948498": {
+    "id": "ba5c72ed-59ec-4398-ad1d-b432c1948498",
+    "text": "Casey and ?sandy Zaph",
+    "interval": 1,
+    "createdDate": 1656161659791,
+    "lastModifiedDate": 1656161659791,
+    "dueDate": 1656161659791,
+    "state": "Archive"
+  },
+  "aad25da4-a6f3-4444-8fd7-d9ba43f16830": {
+    "id": "aad25da4-a6f3-4444-8fd7-d9ba43f16830",
+    "text": "Tshirt saying for nicks bachelor party ",
+    "interval": 29.620720991890686,
+    "createdDate": 1656184722496,
+    "lastModifiedDate": 1657024056918,
+    "dueDate": 1658062113660,
+    "state": "Active"
+  },
+  "c8bc8d6a-304b-404e-8059-ab481db43094": {
+    "id": "c8bc8d6a-304b-404e-8059-ab481db43094",
+    "text": "From wedding\nHannah and jonathon got married\nJessica and Greg sat across. Nurse and teacher \nJohns dad hit on Hannah in his speech\nDom lives in Edmonton but grew up in London and isn’t gay",
+    "interval": 1,
+    "createdDate": 1656254431003,
+    "lastModifiedDate": 1656254431003,
+    "dueDate": 1656254431003,
+    "state": "Archive"
+  },
+  "54443ec1-5857-41d7-bb78-da3b1bf0b471": {
+    "id": "54443ec1-5857-41d7-bb78-da3b1bf0b471",
+    "text": "From gymfest:\nLinda\nChristina and Mike\nAlison \nEvan and Ryan\nShannon, Brett, Robbie\nMaggy, Casey, Sandy\n",
+    "interval": 1,
+    "createdDate": 1656254532888,
+    "lastModifiedDate": 1656254532888,
+    "dueDate": 1656254532888,
+    "state": "Archive"
+  },
+  "95ae41f9-8b0f-4a55-a80e-a7d27a3352a3": {
+    "id": "95ae41f9-8b0f-4a55-a80e-a7d27a3352a3",
+    "text": "https://twitter.com/reasonisfun/status/1541035125797953537?s=12&t=7boP4K-8TRl8I5lFGFwA0w",
+    "interval": 23.867328837104967,
+    "createdDate": 1656259128316,
+    "lastModifiedDate": 1657110244509,
+    "dueDate": 1658138712212,
+    "state": "Active"
+  },
+  "e5ebe83c-0f14-4fa1-83b7-244a0c18a507": {
+    "id": "e5ebe83c-0f14-4fa1-83b7-244a0c18a507",
+    "text": "https://twitter.com/r00k/status/1541100141918257152?s=12&t=rWaTn_4-JtV3v7vgArGPpQ",
+    "interval": 21.712906985506752,
+    "createdDate": 1656295990693,
+    "lastModifiedDate": 1657110284080,
+    "dueDate": 1658006793572,
+    "state": "Active"
+  },
+  "8dee7b04-5b91-448e-aad4-e1f730667f77": {
+    "id": "8dee7b04-5b91-448e-aad4-e1f730667f77",
+    "text": "Something ",
+    "interval": 1,
+    "createdDate": 1656374409763,
+    "lastModifiedDate": 1656374409763,
+    "dueDate": 1656374409763,
+    "state": "Archive"
+  },
+  "ad36cc02-649c-4bd3-afb4-c54d8a8cd0d1": {
+    "id": "ad36cc02-649c-4bd3-afb4-c54d8a8cd0d1",
+    "text": "902 reported that front door isn’t locking",
+    "interval": 1,
+    "createdDate": 1656380971129,
+    "lastModifiedDate": 1656380971129,
+    "dueDate": 1656380971129,
+    "state": "Archive"
+  },
+  "d83ed56f-2195-4103-981a-4b6b06f9e1fe": {
+    "id": "d83ed56f-2195-4103-981a-4b6b06f9e1fe",
+    "text": "904 reported problem with garage door. Staying open super long ",
+    "interval": 1,
+    "createdDate": 1656382745242,
+    "lastModifiedDate": 1656382745242,
+    "dueDate": 1656382745242,
+    "state": "Archive"
+  },
+  "c0309baf-7587-4171-87ce-f70205b1edd9": {
+    "id": "c0309baf-7587-4171-87ce-f70205b1edd9",
+    "text": "822 reported garage door open again",
+    "interval": 1,
+    "createdDate": 1656386536714,
+    "lastModifiedDate": 1656386536714,
+    "dueDate": 1656386536714,
+    "state": "Archive"
+  },
+  "c0056731-552e-4af3-8f06-9d84aa41f6d2": {
+    "id": "c0056731-552e-4af3-8f06-9d84aa41f6d2",
+    "text": "Memorize the wording of the prompts to ask the feeling ",
+    "interval": 27.68612256298117,
+    "createdDate": 1656417953451,
+    "lastModifiedDate": 1657200436804,
+    "dueDate": 1658342393234,
+    "state": "Active"
+  },
+  "9f1ab8aa-7fbb-49b8-9233-e39695fe1025": {
+    "id": "9f1ab8aa-7fbb-49b8-9233-e39695fe1025",
+    "text": "Did this work?",
+    "interval": 1,
+    "createdDate": 1656460629258,
+    "lastModifiedDate": 1656460629258,
+    "dueDate": 1656460629258,
+    "state": "Archive"
+  },
+  "f7ce011d-f8a9-44c7-9322-bcd9b487f034": {
+    "id": "f7ce011d-f8a9-44c7-9322-bcd9b487f034",
+    "text": "SIIIIICK!!!",
+    "interval": 1,
+    "createdDate": 1656460644192,
+    "lastModifiedDate": 1656460644192,
+    "dueDate": 1656460644192,
+    "state": "Archive"
+  },
+  "25a7447c-55a4-4edb-a086-bd9fc11ee793": {
+    "id": "25a7447c-55a4-4edb-a086-bd9fc11ee793",
+    "text": "https://twitter.com/algekalipso/status/1541931084597714944?s=12&t=aCbxdsrQuplXJZouJcQ6sw",
+    "interval": 22.908339610405196,
+    "createdDate": 1656465335185,
+    "lastModifiedDate": 1657281386822,
+    "dueDate": 1658153091946,
+    "state": "Active"
+  },
+  "6574c1dc-0b4c-4978-925b-a4a94fd60c00": {
+    "id": "6574c1dc-0b4c-4978-925b-a4a94fd60c00",
+    "text": "https://scottaaronson.blog/?p=6524&fbclid=IwAR3yc-BCEUwkAK-3rnBgN77ikRUSKWIftB6jXnlgSYm0ijDA8OempbsuRwU",
+    "interval": 1,
+    "createdDate": 1656465659265,
+    "lastModifiedDate": 1656465659265,
+    "dueDate": 1656465659265,
+    "state": "Archive"
+  },
+  "31648ac0-5572-49c9-a837-aba06fe2c517": {
+    "id": "31648ac0-5572-49c9-a837-aba06fe2c517",
+    "text": "Diff between Utility function in the outside training loop and utility function inside the agent  ",
+    "interval": 10.856517169193426,
+    "createdDate": 1656466100789,
+    "lastModifiedDate": 1656941304998,
+    "dueDate": 1657348738928,
+    "state": "Active"
+  },
+  "3f873a64-af44-4945-8a60-d904f2dcc62f": {
+    "id": "3f873a64-af44-4945-8a60-d904f2dcc62f",
+    "text": "Had a dream where Dave Arnold did a high vault front pike half",
+    "interval": 5.123723251183892,
+    "createdDate": 1656503939630,
+    "lastModifiedDate": 1656597333525,
+    "dueDate": 1656777306197,
+    "state": "Archive"
+  },
+  "5534f506-5fd6-4fe2-966a-de40a9346bdf": {
+    "id": "5534f506-5fd6-4fe2-966a-de40a9346bdf",
+    "text": "https://www.youtube.com/watch?v=KrPsyr8Ig6M&ab_channel=JOnTheBeach\nLocal-first software - Peter Van Hardenberg",
+    "interval": 29.761730692526964,
+    "createdDate": 1656520443662,
+    "lastModifiedDate": 1657583039487,
+    "dueDate": 1658630630771,
+    "state": "Active"
+  },
+  "c3e2df51-92db-41dd-b40f-9d9ed57dc4db": {
+    "id": "c3e2df51-92db-41dd-b40f-9d9ed57dc4db",
+    "text": "https://www.hytradboi.com/2022/viewing-collaborative-editing-through-a-databases-lens\nViewing collaborative editing through a databases lens\nby Martin Kleppmann (the creator of automerge)",
+    "interval": 4.391828990714215,
+    "createdDate": 1656521620658,
+    "lastModifiedDate": 1656597258320,
+    "dueDate": 1656772527343,
+    "state": "Archive"
+  },
+  "27632646-237d-47dc-b8b7-118e68769205": {
+    "id": "27632646-237d-47dc-b8b7-118e68769205",
+    "text": "https://blog.replit.com/clui\nCLUI: Building a Graphical Command Line",
+    "interval": 22.885810193021474,
+    "createdDate": 1656525323200,
+    "lastModifiedDate": 1657281332195,
+    "dueDate": 1658157968063,
+    "state": "Active"
+  },
+  "575d2025-9f6c-4eab-bf11-a8c25eeb8075": {
+    "id": "575d2025-9f6c-4eab-bf11-a8c25eeb8075",
+    "text": "Text Ben re bachelor party",
+    "interval": 5.667699266829259,
+    "createdDate": 1656529887518,
+    "lastModifiedDate": 1656597274408,
+    "dueDate": 1656807713934,
+    "state": "Archive"
+  },
+  "52eddd48-c89b-4fb1-a3b3-6b2eae6d29ef": {
+    "id": "52eddd48-c89b-4fb1-a3b3-6b2eae6d29ef",
+    "text": "use feedly?",
+    "interval": 21.055063677945135,
+    "createdDate": 1656597597398,
+    "lastModifiedDate": 1657583077148,
+    "dueDate": 1658480845051,
+    "state": "Active"
+  }
+}

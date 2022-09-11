@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1326cec8-710b-4493-b704-f55158f5f3f1",
+    "text": "Create a note by pressing the big blue + button. All your notes will appear in the creatively named \"All\" tab. In this demo version of the app, the notes are saved to your browser's local storage.",
+    "interval": 1,
+    "createdDate": 1652304875699,
+    "lastModifiedDate": 1652304875699,
+    "dueDate": 1652304875699,
+    "state": "Active"
+  },
+  {
+    "id": "47fe3909-3894-4a14-9ab4-3184c5901c58",
+    "text": "The UI is designed to be used on mobile, not desktop, and it's meant to feel like a messaging app. Your most recent notes are at the bottom, and you scroll up to see older ones.",
+    "interval": 1,
+    "createdDate": 1656619878071,
+    "lastModifiedDate": 1656619878071,
+    "dueDate": 1656619878071,
+    "state": "Active"
+  },
+  {
+    "id": "ffc5d93c-3c9c-4b40-b161-029428bced22",
+    "text": "The Inbox tab is where you review and process notes. You can head over there now.",
+    "interval": 1,
+    "createdDate": 1656620174223,
+    "lastModifiedDate": 1656620174223,
+    "dueDate": 1656620174223,
+    "state": "Active"
+  },
+  {
+    "id": "36273726-29fb-4169-b78b-a620c63c617a",
+    "text": "There are only 2 actions you can take on a note:\n\nKeep: The note is removed from the inbox for today, but it'll keep coming back on future days. At first frequently, but then less and less so as time goes on.\n\nArchive: The note is removed from the inbox forever. You'll still see it in the \"All\" tab, but it'll never come up in the inbox a",
+    "interval": 1,
+    "createdDate": 1656623649800,
+    "lastModifiedDate": 1656623649800,
+    "dueDate": 1656623649800,
+    "state": "Active"
+  }
+]
