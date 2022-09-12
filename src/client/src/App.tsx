@@ -4,27 +4,19 @@ import { Note, create as createNote } from "./models/Note";
 import All from "./components/All";
 import Inbox from "./components/Inbox";
 import Entry from "./components/Entry";
-// import { useSyncingState } from "./syncHook";
 import { usePersistedObjects } from "./usePersistedObjects";
 
-const backend: "local" | "server" = process.env.REACT_APP_BACKEND === "server" ? "server" : "local";
-
 function App() {
-  // const initialNotes = backend === "server" ? [] : require("./assets/demo-notes.json");
   const [objects, mergeIntoObjects] = usePersistedObjects();
-  // const [notes, setNotes, notesConnected] = useSyncingState<Note[]>(initialNotes, "notes");
   const [noteForm, setNoteForm] = useState<{ text: string } & Partial<Note>>({ text: "" });
 
   const notes = Object.values(objects) as Note[];
 
   const updateNote = (id: string, fn: (n: Note) => Note) => {
-    // setNotes((notes) => {
-    //   return notes.map((n) => (n.id === id ? fn(n) : n));
-    // });
     mergeIntoObjects((objects) => {
       let note = objects[id] as Note;
       if (!note) throw new Error("Note not found");
-      return { id: fn(note) };
+      return { [id]: fn(note) };
     });
   };
 

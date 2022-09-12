@@ -38,11 +38,11 @@ const Inbox = (props: Props) => {
               quickActions={quickActions(n.id)}
             />
           ))}
-      {inboxNotes.length === 0 && (
-        <div id="done-message">
-          <img src={require("../assets/checked.png")} />
-          <p>All done!</p>
-        </div>
+        {inboxNotes.length === 0 && (
+          <div id="done-message">
+            <img src={require("../assets/checked.png")} alt="Done" />
+            <p>All done!</p>
+          </div>
         )}
       </div>
     </React.Fragment>
