@@ -7,17 +7,19 @@ export type Objects = { [key: ObjectKey]: { [key: string | number | symbol]: any
 /**
  * Returns an object of objects that are persisted to the server and a function to update it.
  *
- * Note:
- * - This hook is not thread safe. It is not safe to call this hook from multiple components.
- * - Pulls stop while in-memory objects are changing and resumes after 5s of inactivity.
- * - Pushes stop while in-memory objects are changing and resumes after 1s of inactivity.
+ * This hook is not thread safe. It is not safe to call this hook from multiple components.
  * @returns
  */
-export const usePersistedObjects = () => {
-  const [objects, setObjects] = useState<Objects>({});
+export const usePersistedObjects = (
+  initialObjects = {},
+  { pullInterval = 5000, pushInterval = 1000 } = {}
+) => {
+  const [objects, setObjects] = useState<Objects>(initialObjects);
   const [objectsToPush, setObjectsToPush] = useState<Set<ObjectKey>>(new Set());
-  const [lastPull, setLastPull] = useState<number>(0);
   const [serverUp, setServerUp] = useState<boolean>(true);
+
+  const [lastPull, setLastPull] = useState<number>(0);
+  const [lastPush, setLastPush] = useState<number>(0);
 
   function mergeIntoObjects(objectsUpdate: Objects | ((objects: Objects) => Objects)) {
     setObjects((objects) => {
@@ -32,12 +34,10 @@ export const usePersistedObjects = () => {
   // Sync functions
 
   const push = useCallback(async () => {
-    if (objectsToPush.size === 0) {
-      return;
-    }
+    if (objectsToPush.size === 0) return;
+
     const updatedObjects: Objects = {};
     objectsToPush.forEach((key) => (updatedObjects[key] = objects[key]));
-    console.log("push", updatedObjects);
 
     await fetch("/api/db", {
       method: "POST",
@@ -46,20 +46,20 @@ export const usePersistedObjects = () => {
       },
       body: JSON.stringify(updatedObjects),
     });
+    console.log("Pushed", updatedObjects);
 
     setObjectsToPush(new Set());
   }, [objects, objectsToPush, setObjectsToPush]);
 
   const pull = useCallback(async () => {
-    if (objectsToPush.size > 0) return;
-    const thisPull = Date.now();
+    if (objectsToPush.size > 0) return; // Don't pull if there are objects to push
+
     const response = await fetch("/api/db/new?since=" + lastPull);
     const { objects: newObjects } = await response.json();
-    console.log("pulled", newObjects);
+    console.log("Pulled", newObjects);
     if (Object.keys(newObjects).length === 0) {
       return false;
     }
-    setLastPull(thisPull);
     setObjects((objects) => ({ ...objects, ...newObjects }));
     return true;
   }, [lastPull, objectsToPush]);
@@ -99,15 +99,28 @@ export const usePersistedObjects = () => {
 
   useEffect(() => {
     if (!serverUp) return;
-    const interval = setInterval(pull, 5000);
-    return () => clearInterval(interval);
-  }, [pull, serverUp]);
+    const now = Date.now();
+    const nextPull = lastPull + pullInterval;
+    const timeout = setTimeout(() => {
+      pull();
+      setLastPull(now);
+    }, nextPull - now);
+    return () => {
+      clearTimeout(timeout);
+    };
+  }, [pull, lastPull, setLastPull, serverUp, pullInterval]);
 
   useEffect(() => {
     if (!serverUp) return;
-    const interval = setInterval(push, 1000);
-    return () => clearInterval(interval);
-  }, [push, serverUp]);
+    if (objectsToPush.size === 0) return;
+    const now = Date.now();
+    const nextPush = lastPush + pushInterval;
+    const timeout = setTimeout(() => {
+      push();
+      setLastPush(now);
+    }, nextPush - now);
+    return () => clearTimeout(timeout);
+  }, [push, lastPush, setLastPush, serverUp, objectsToPush, pushInterval]);
 
   return [objects, mergeIntoObjects] as const;
 };

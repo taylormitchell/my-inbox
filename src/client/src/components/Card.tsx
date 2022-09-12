@@ -8,7 +8,7 @@ type CardProps = {
 
 function Card(props: CardProps) {
   const { note } = props;
-  
+
   function displayTimestamp(timestamp: number) {
     const today = new Date();
     const thisYear = today.getFullYear();
@@ -20,14 +20,24 @@ function Card(props: CardProps) {
     const noteDay = noteDate.getDate();
 
     let months = [
-      "Jan", "Feb", "Mar", "Apr", "May", "Jun",
-      "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
-    ]
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+    ];
     if (noteYear === thisYear && noteMonth === thisMonth && noteDay === thisDay) {
       return `${noteDate.toLocaleTimeString("en-US", {
         hour: "numeric",
         minute: "2-digit",
-        hour12: true
+        hour12: true,
       })}`;
     } else if (noteYear === thisYear) {
       return `${months[noteMonth]} ${noteDay}`;
@@ -39,16 +49,14 @@ function Card(props: CardProps) {
   return (
     <div id={note.id} className="card">
       <header>
-          <div className="details">
-            <p className="date">{displayTimestamp(note.createdDate)}</p>
-          </div>
+        <div className="details">
+          <p className="date">{displayTimestamp(note.createdDate)}</p>
+        </div>
       </header>
       <main>
         <p className="text">{note.text}</p>
       </main>
-      <footer>
-        {props.quickActions}
-      </footer>
+      <footer>{props.quickActions}</footer>
     </div>
   );
 }
