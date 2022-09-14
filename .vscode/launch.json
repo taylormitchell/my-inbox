@@ -12,18 +12,18 @@
       "cwd": "${workspaceFolder}/src"
     },
     {
+      "name": "Launch App",
       "type": "node",
       "request": "launch",
-      "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
       "runtimeExecutable": "npm",
       "runtimeArgs": ["start"],
       "cwd": "${workspaceFolder}/src"
     },
     {
+      "name": "Launch Chrome",
       "type": "chrome",
       "request": "launch",
-      "name": "Launch Chrome against localhost",
       "url": "http://localhost:3000",
       "webRoot": "${workspaceFolder}/src"
     }

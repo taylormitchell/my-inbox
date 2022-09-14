@@ -1,7 +1,7 @@
 import express from "express";
 import db from "./db";
 
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3002;
 
 const app = express();
 app.use("/api/db", db);

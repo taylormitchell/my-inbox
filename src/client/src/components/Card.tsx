@@ -1,3 +1,4 @@
+import { useState, useRef, useEffect } from "react";
 import { Note } from "../models/Note";
 
 type CardProps = {
@@ -8,6 +9,7 @@ type CardProps = {
 
 function Card(props: CardProps) {
   const { note } = props;
+  const [editing, setEditing] = useState(false);
 
   function displayTimestamp(timestamp: number) {
     const today = new Date();
@@ -46,6 +48,20 @@ function Card(props: CardProps) {
     }
   }
 
+  const textArea = useRef<HTMLParagraphElement>(null);
+
+  useEffect(() => {
+    if (textArea.current && editing) {
+      textArea.current.focus();
+    }
+  }, [editing]);
+
+  const keydownHandler = (e: any) => {
+    if (e.key === "Escape") {
+      setEditing(false);
+    }
+  };
+
   return (
     <div id={note.id} className="card">
       <header>
@@ -54,7 +70,23 @@ function Card(props: CardProps) {
         </div>
       </header>
       <main>
-        <p className="text">{note.text}</p>
+        <p
+          ref={textArea}
+          style={{ width: "100%", height: "100%" }}
+          className="text"
+          onBlur={(e) => {
+            setEditing(false);
+            props.updateNote(note.id, (n) => {
+              return { ...n, text: e.target.innerText };
+            });
+          }}
+          onClick={(e) => setEditing(true)}
+          onKeyDown={keydownHandler}
+          contentEditable={editing}
+          suppressContentEditableWarning={true}
+        >
+          {note.text}
+        </p>
       </main>
       <footer>{props.quickActions}</footer>
     </div>
