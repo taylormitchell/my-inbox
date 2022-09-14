@@ -1,0 +1,1 @@
+scp $DROPLET_USER@$DROPLET_IP:~/data/db.sqlite ~/Downloads/db.sqlite

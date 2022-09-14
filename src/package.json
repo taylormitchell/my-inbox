@@ -5,25 +5,21 @@
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
-    "preinstall": "cd client && npm install",
     "client": "cd client && npm start",
-    "server": "cd server && nodemon index.ts",
-    "prod": "nodemon index.ts",
-    "build": "cd client && npm run build",
+    "server": "node index.js",
+    "prod": "node index.js",
+    "db:init": "source ./db/init.sh",
+    "db:reset": "source ./db/reset.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.2",
     "express": "^4.18.1",
-    "sqlite3": "^5.0.11",
-    "ts-node": "^10.9.1"
+    "sqlite3": "^5.0.11"
   },
   "devDependencies": {
-    "@types/express": "^4.17.13",
-    "@types/lodash": "^4.14.185",
     "@types/sqlite3": "^3.1.8",
     "concurrently": "^7.4.0",
     "nodemon": "^2.0.19",
