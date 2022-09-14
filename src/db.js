@@ -1,8 +1,18 @@
 const express = require("express");
 const sqlite3 = require("sqlite3");
 const path = require("path");
+const fs = require("fs");
 
-const dbFile = path.join(__dirname, "db/db.sqlite");
+// Set up the database
+const dbFile = process.env.DB_FILE || path.join(__dirname, "db/db.sqlite");
+if (!fs.existsSync(dbFile)) {
+  const db = new sqlite3.Database(dbFile);
+  const sql = fs.readFileSync("db/init.sql", "utf8");
+  db.serialize(() => {
+    db.run(sql);
+  });
+  db.close();
+}
 
 const router = express.Router();
 const bodyParser = require("body-parser");
